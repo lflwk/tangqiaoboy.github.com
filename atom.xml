@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>唐巧的博客</title>
+  
+  <subtitle>记录下自己学习的点滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.devtang.com/"/>
+  <updated>2020-04-22T15:48:18.680Z</updated>
+  <id>https://blog.devtang.com/</id>
+  
+  <author>
+    <name>唐巧</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>既做正确的事情，又照顾人的情绪 - 读《关键对话》</title>
+    <link href="https://blog.devtang.com/2020/04/19/crucial-conversations-book-summary/"/>
+    <id>https://blog.devtang.com/2020/04/19/crucial-conversations-book-summary/</id>
+    <published>2020-04-19T14:26:34.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/crucial-conversations-book.jpg" class=""><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>你是否遇到过这种情况：和朋友、爱人、同事在一些事情上遇到激烈的分歧，然后你觉得你无法说服对方，于是你只有两种选择：</p><ul><li>方案一：激烈地对抗，但有可能也无法达成目标，反而可能会激怒对方，让沟通变成双方情绪的宣泄。</li><li>方案二：选择沉默。被迫接受你内心不认可的观点，不管这个行为带来的影响有多大。</li></ul><p>这本《关键对话》解决的就是以上问题，希望让你<strong>「既做正确的事情，又照顾人的情绪」</strong>。</p><p>以下是我的一些读书笔记。</p><h2 id="确定你的目标"><a href="#确定你的目标" class="headerlink" title="确定你的目标"></a>确定你的目标</h2><p>人天生就有捍卫自己观点的冲动，这容易最后让对话变成双方都试图说服对方，而不是真正和对方沟通。所以，关键对话对话的第一步让你站在「上帝视角」观察自己，了解清楚你的目的，从而不让情绪主导自己的行为。</p><p>然后，时刻提醒自己不要做「傻瓜式选择」，「傻瓜式选择」就是我在引言中提到的两种沟通的方式：要么直接对抗，要么放弃沟通。</p><h2 id="观察对话的氛围"><a href="#观察对话的氛围" class="headerlink" title="观察对话的氛围"></a>观察对话的氛围</h2><p>拒绝「傻瓜式选择」并不容易，要做到这一点，首先需要的是观察对话的氛围，如果氛围不对，那么对话可能就无法有效进行了，书中列出了三种信号：</p><ul><li>对话陷入危机的时刻</li><li>对方失去安全感的信号（即表现出沉默或暴力）</li><li>你应对压力的方式</li></ul><h2 id="保证安全"><a href="#保证安全" class="headerlink" title="保证安全"></a>保证安全</h2><p>书中介绍了一些在谈话出现安全感问题时，可以使用的技巧：</p><ul><li>道歉。当你的行为冒犯了对方的时候，先行道歉。</li><li>对比说明。当对方误解了你的时候，用对比法消除误会。</li><li>创建共同的目的。当目的冲突的时候，寻找共同的目的。</li></ul><h3 id="道歉"><a href="#道歉" class="headerlink" title="道歉"></a>道歉</h3><p>如果对方的情绪确实由于你的某些错误造成，那么你首先需要道歉。这有助于对方情绪的缓解，进而能够冷静下来理性沟通。</p><h3 id="对比说明"><a href="#对比说明" class="headerlink" title="对比说明"></a>对比说明</h3><p>对比说明的结构是：<strong>「否定部分 + 肯定部分」</strong>。否定部分纠正对方的一些误解，肯定部分强化你的真实目的。</p><p>书中有一个案例，夫妻双方讨论一个敏感问题，丈夫首先发飙，认为是妻子指责自己。书中建议妻子用「对比说明」回答：我不是说这是你的问题，实际上我觉得这是我们俩的问题。我也不知道应该如何解决，但是我希望和你交流，这样才能更好地了解对方。</p><p>书中提供了一个练习的格式：我不希望＿＿＿，而是希望＿＿＿。</p><h3 id="创建共同的目的"><a href="#创建共同的目的" class="headerlink" title="创建共同的目的"></a>创建共同的目的</h3><p>有一些时候，很容易找到双方的共同目的。但沟通遇到问题的时候，共同目的就不那么容易创建了。</p><p>书中建议对双方的主张背后的真正策略进行讨论，试着问对方：「你为什么想这么做？」。</p><p>书中的案例是夫妻之前关于下班后是出去还是在家的争论。在试着问对方「你为什么想这么做？」之后，最终发现：妻子想在家是想安静一点，而丈夫想出去是因为想躲开孩子，享受一下二人少有的独处时光。于是，对话的共同目的就出现了：找到既能够安静一点，又可以享受二人独处时光的方案。在共同目标下，夫妻很快讨论出了方案。</p><h2 id="控制情绪"><a href="#控制情绪" class="headerlink" title="控制情绪"></a>控制情绪</h2><h3 id="认识情绪"><a href="#认识情绪" class="headerlink" title="认识情绪"></a>认识情绪</h3><p>在控制情绪之前，我们首先需要认识情绪：</p><ul><li>让情绪产生的只能而且永远是你自己。</li><li>产生负面情绪之后，你要么控制它，要么被它控制。</li></ul><p>另外，情绪本身没有好坏之分，所有情绪都是合理的。「生气」这种情绪有助于肾上腺素的分泌，在远古时代拥有这种情绪的人会在暴力行为中占据上风（因为那个时候竞争靠力量居多）。「害怕」这种情绪也会让人远离危险，人看到蛇之类的动物天生就会害怕，这也是靠上万年的自然选择留在我们基因深处的情绪触发机制。</p><p>虽然情绪没有好坏之分，但是由于情绪不加控制产生的行为，就很难说都是好的了。比如一个人因为生气，杀了人，那他就要承担刑事责任，就可以肯定是一个坏的行为。</p><h3 id="控制情绪-1"><a href="#控制情绪-1" class="headerlink" title="控制情绪"></a>控制情绪</h3><p>通过拆解对话中情绪的产生过程，我们发现在信息和情绪之间，我们有一层对于信息的偏主观的理解，如下图：</p><img src="/images/cc-book-1.jpg" class=""><p>书中的案例是一个合作的同事 A 和 B，同事 A 在报告的时候自己独自演示，没有给同事 B 机会说话，这让同事 B 认为自己的功劳被忽略了。但具体的客观分析下来，有可能同事 A 是由于紧张才这样，并不是有意埋没同事 B 的贡献。</p><p>在对话的时候，如果我们把对方想得善意一些，就容易建立起平和的情绪进行沟通，避免误解。书中建议我们使用「一个理智而正常的人为什么会这么做」来反问自己，试图给对方一个理性解释，然后再试图通过对话来解决问题。</p><p>当然，这种理性解释只是让对话可以开展，不代表最终对方就是这么善意，但是这总比你一开始把别人往坏处想，误会好人要好得多。</p><p>书中只是介绍了对话的情绪如何解决，我在以前还看过一些别的情绪的解决方法，比如遇到伤心的事情了，仍不住想哭之类的。首先我们得知道情绪的宣泄是有助于心理健康的，一个人如果老是压抑自己的正常情绪，那么也容易产生各种心理疾病。所以，情绪产生了，最好的办法就是合理的把这个情绪控制住。</p><p>控制情绪的办法有很多，以下是我想到的一些。</p><p> 1、适当宣泄。比如悲伤的情绪，最简单的方法就是哭出来，倾诉出来就会好很多。又比如焦虑的情绪，可以通过适当地放松来调节。</p><p> 2、转移注意力。如果有一件事情你很生气，很冲动，你可以先想想别的事情，让自己的情绪先冷静下来。小朋友发脾气的时候，我们虽然不能让他转移注意力，但是我们通常让他找个安静的地方平静一下，也是类似的道理。一般情况下，给自己 5-10 分钟安静时间，就不会那么冲动了。</p><p> 3、上帝视角自嘲。把自己的行为看成第三者犯的，自我嘲笑一下。比如：「哎，我怎么又犯这种低级错误了」，这有助于控制自我否定的情绪。有些时候也可以把一些影响情绪的小事用另外的角度来解读和表达，比如麻烦了大家，说：「我又给大家挖坑了」，再配个下面的图。</p><img src="/images/cc-book-2.jpg" class=""><h2 id="陈述观点"><a href="#陈述观点" class="headerlink" title="陈述观点"></a>陈述观点</h2><p>书中介绍了「综合陈述法」，一共五种技巧：</p><ul><li>分享事实经过</li><li>说出你的想法</li><li>征询对方观点</li><li>做出试探表述</li><li>鼓励做出尝试</li></ul><p>前面三种是「内容」方面的技巧，后面两种是「方式」方面的技巧。</p><p>分享事实经过。这个阶段只陈述事实，不加工对于事实本身的理解。</p><p>说出你的想法。这个时候要注意让对方留在安全区，通过刚刚提到的各种方法，保持一种理性的沟通气氛。自己要表现得足够自信和谦逊，即把你的观点毫无保留地表达出来，又对对方表达出足够的尊重。</p><p>征询对方观点。这个时候需要认真听取对方的观点，并且将对方的合理观点放到自己的观点库中，以便修正自己的观点。对话不是为了说服对方，而是让双方达成一致。如果是自己的想法有问题，修正就可以了。</p><p>做出试探表述。这种表述显示出你的观点不一定成熟，这有助于双方进行讨论，这样的表述常见的格式是：</p><ul><li>「我很好奇为什么…」</li><li>「可能你没有意识到…」</li><li>「我有点怀疑是否…」</li></ul><p>使用试探表述不要走向另一个极端，即表现得特别软弱。因为这会让人感觉到很不自信，这对你的观点非常不利。软弱的说法包括：「我这样说可能有点傻…」，「我可能是错的，不过…」，「我可能太苛刻了，可是…」。</p><p>鼓励做出尝试。当沟通双方是上下级关系时，对方可能会担心风险。这个时候鼓励就很重要，要让他们理解你交流的意愿。比如说：「我很想知道大家的意见」。</p><p>最后，我们以上的技巧都是为了将注意力放到事情本身而不是情绪上，只有这样才能获得有效地沟通，达成正确的结论。</p><h2 id="了解动机"><a href="#了解动机" class="headerlink" title="了解动机"></a>了解动机</h2><p>为了鼓励对方道出行为动机，我们应该用四种有效的倾听技巧来营造安全感。这四种技巧分别是：</p><ul><li>询问观点。</li><li>确认感受。</li><li>重新描述。</li><li>主动引导。</li></ul><p>询问观点比较直接，例如：「我想听听你的看法」，「如果你有不同观点，可以直接告诉我」。</p><p>如果直接的方式无法让对方开口，可能是因为对方安全感不够，你可以通过确认感受来营造更大的安全感。比如：「你好像对我很生气」，「你嘴上说没事，但是看起来不像是没事的样子」。</p><p>用你自己的语言，把对方的话再重复一遍，可以营造更强的安全感。比如：「好的，你看看我的理解是否正确。你感觉不开心是因为…，是这样吗？」。</p><p>如果以上办法都没有达成有效的沟通，这个时候不要急于求成，而应该放慢节奏，可以选择退出或者询问对方希望看到的结果。询问对方的目的有助于避免他们陷入攻击或逃避的简单思维模式，转而思考更重要的问题的解决方案。</p><p>主动引导是猜测对方想法，主动抛出来的行为，这有一种风险就是有可能会让别人误会。所以需要前面提到的方法没有用，同时你又非常确定他们的想法的时候才可以使用。例如：「你是不是觉得….，对吗？」这是一种承担风险，主动示弱和营造安全感的行为。</p><h2 id="开始行动"><a href="#开始行动" class="headerlink" title="开始行动"></a>开始行动</h2><p>当大家建立了安全感，确定了共同的目标，向目标贡献了各种观点和想法，却无法将它们转化成行动。书中建议在确定行动方案之后，明确以下信息：</p><ul><li>行动人。明确执行人。</li><li>行动目标。明确行动的目标，需要非常具体。</li><li>行动时间。需要明确完成的时间。</li><li>检查方法。比如完成之后通知大家，或者定期检查进度。</li></ul><p>这有点类似 [SMART 原则](https:/SMART 原则/baike.baidu.com/item/SMART%E5%8E%9F%E5%88%99)。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>本质上，《关键对话》是一本讲如何做出正确决策的书，只是因为很多错误的决策是由于情绪造成讨论不足分，故意对抗，所以这本书强调要放下自己的主观立场，在一个安全的气氛下「共享观点库」，以便做出正确的决策。</p><p>所以，本书最关键的点就是：</p><ul><li>自省。能够放下自己的观点，为了达成正确的决策做好沟通的基础。</li><li>营造安全感。通过道歉、对比陈述、创建共同目标、控制情绪（避免曲解他人）、陈述观点、寻找动机来构建安全的信息沟通方式。</li></ul><p>最后，用 SMART 原则来做一个明确的、具体的、可检查的、有时间限制的方案，推进方案的实施。</p><p>这本书有点类似于去年看的<a href="/2019/10/06/humble-inqiury-book-summary/">《谦逊的探询》</a>，都是为了营造一种安全的沟通气氛而使用的技巧，不过本书针对的是更敏感的问题，《谦逊的探询》更像是针对一些开放性问题，各有侧重。</p><p>一本非常好的书，推荐给大家！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/crucial-conversations-book.jpg&quot; class=&quot;&quot;&gt;
+
+
+&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;你是否遇到过这种
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>做决策的时候，你相信什么？</title>
+    <link href="https://blog.devtang.com/2020/04/15/how-to-make-decision/"/>
+    <id>https://blog.devtang.com/2020/04/15/how-to-make-decision/</id>
+    <published>2020-04-15T13:23:43.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>​</p><h2 id="一、引言"><a href="#一、引言" class="headerlink" title="一、引言"></a>一、引言</h2><p>最近发生了两件事情：</p><p>1、同事 A 给我说，有一个产品他想迭代，因为那个产品的视觉他觉得不好。而我觉得那视觉还行。于是我就给他说：是不是要做个调研，让用户们评一下？</p><p>2、同事 B 给我说，他想把某个产品的视觉迭代一下。我对新的视觉风格不确定，就问了一些人。有一些人说好，有一些人说不好。我问同事 B，要不要做个用研投个票。同事 B 觉得这样不好，因为他认为专业的判断更靠谱。</p><p>就决策来看，我们应该相信自己的判断或感觉，还是相信专家，还是相信一个流程？这引发了我的思考。</p><h2 id="二、决策的原则"><a href="#二、决策的原则" class="headerlink" title="二、决策的原则"></a>二、决策的原则</h2><p>更多时候，人性是相信自己的感觉的，然后会靠着自己的感觉，来选择性的相信一些信息。</p><p>比如我发现，当我对一件事情怀疑的时候，我就会选择性相信自己看到的证据，忽视或者怀疑别的证据。我不会简单地以证据的多少为决策依据，当支持我的观点少的时候，我会觉得“<strong>真理掌握在少数人手里</strong>”，当支持我的观点多的时候，我会觉得”<strong>应该听取大部分人的观点，减少风险</strong>“。</p><p>那么，真正好的决策原则是什么？是相信自己的直观，还是相信专家，还是依赖于投票，调研的结论？</p><p>我首先觉得，<strong>盲目自信是不好的</strong>。别人说的信息，应该还是消化吸收进来，对的接受，不对的过滤。</p><p>另外，<strong>依赖投票和调研数据来做决策是不对的</strong>。因为投票和调研都非常容易被问题或者场景或者调研样本影响。依赖这个做决策很多时候都会死很惨。比如历史上的 1985 年可口可乐的<a href="https://wenku.baidu.com/view/e847c601cc175527072208b9.html" target="_blank" rel="noopener">换口味事件</a>，依赖于用户盲测，结果最后决策是完全错误的。</p><p>桥水基金的创始人 Ray 在公司发明了一种基于置信度的带权重的投票决策机制，但是我觉得这个机制只适用于他们公司，同时这对于大部分人来说做不到。</p><p>对于大部分人来说，可能最好的决策方式就是：<strong>客观</strong>。客观是指先把自己的观点放一把，然后把自己的观点和别人的观点都放在一起看一看，逐个分析每个观点是否正确。最后分析完了，还是得”相信自己的分析“。</p><p>因为这本质上对于一个决策，<strong>一个人只能相信自己相信的决策</strong> 。对于自己不相信的决策，即使短期妥协，一旦遇到一些相反的信息就会后悔，会坚持不住。</p><p>这跟自己没研究透的股票在持续下跌的过程中拿不住是一个道理。这波疫情造成的股市下跌，我发现我最后拿住的股票，都是我坚信会涨回来的，没拿住的，都是不确定能不能涨回来的。</p><h2 id="三、决策能力差怎么办"><a href="#三、决策能力差怎么办" class="headerlink" title="三、决策能力差怎么办"></a>三、决策能力差怎么办</h2><p>不是每个人都有很好的决策能力。如果一个人最终决策能力低，那可以不决策，把决策过程完全交给自己信得过的人，这也是可以的。</p><p>比如在家里，夫妻可以让决策能力强的人拿主意；工作上，可以让决策能力强的人做负责人；在生活上，也可以多咨询身边决策能力强的朋友的意见。决定把决策交给别人，并坚信别人，也是一种决策。</p><p>这就类似于买私募基金，就是一种将理财的方案决策交给专家来做的行为。</p><h2 id="四、小结"><a href="#四、小结" class="headerlink" title="四、小结"></a>四、小结</h2><p>1、决策的时候要理性，客观，不能盲目自信。</p><p>2、不要轻信专家，投票，用户调查，历史经验，而应该把这些信息当作参考，从底层自己独立思考。</p><p>3、只有自己相信的事情，才能持久。</p><p>4、精力有限或能力有限的情况下，可以考虑把一些事情的决策交给别人。</p><p>就酱~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​&lt;/p&gt;
+&lt;h2 id=&quot;一、引言&quot;&gt;&lt;a href=&quot;#一、引言&quot; class=&quot;headerlink&quot; title=&quot;一、引言&quot;&gt;&lt;/a&gt;一、引言&lt;/h2&gt;&lt;p&gt;最近发生了两件事情：&lt;/p&gt;
+&lt;p&gt;1、同事 A 给我说，有一个产品他想迭代，因为那个产品的视觉他觉得不好
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>方三文的聊天记录 - 读《您厉害，您赚得多》</title>
+    <link href="https://blog.devtang.com/2020/04/11/snowball-ceo-book-summary/"/>
+    <id>https://blog.devtang.com/2020/04/11/snowball-ceo-book-summary/</id>
+    <published>2020-04-11T15:49:34.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/snowball-ceo-book.jpg" class=""><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>最近读完了雪球 CEO 方三文的《您厉害，您赚得多》。这是一本比较特别的书，里面很多内容以雪球上的聊天记录的方式呈现，稍微显得体系感没那么强。但是一本书能够给读者带来几个点的思考和总结，也就值回书价和时间了。</p><p>整本书给我带来的思考还是挺多的，以下是一些记录。</p><h2 id="什么是赌徒"><a href="#什么是赌徒" class="headerlink" title="什么是赌徒"></a>什么是赌徒</h2><p>书中关于「股市与赌徒」让我思考，什么才是真正的价值投资者。结果我发现，实际上基本上所有的投资都带有赌博的成分。</p><p>我们通常可能认为，股票挣钱的方式有两种：</p><ul><li>挣市场的钱</li><li>挣交易对手的钱</li></ul><p>但是，即便是所谓的价值投资者，也是在目标股票价格合理或者极低时买入。这个时候，他如果真的做到了超过平均收益率的回报，那前提是他假定当时和他对手的交易都是傻子，并且事实上确实如此。所以，他其实也是挣的是交易对手的钱。</p><p>同时，当你在买入一支股票的时候，你其实就做了两件事情：择股，择时。这两件事情本身都有极大不确定因素：</p><ul><li>没有人能够预测股票未来的涨跌，所以你的择时就是一种赌博。</li><li>没有人能够获得一家公司所有的信息，决策都是不完全信息情况下做出的。这个时候做出的投股决定，虽然有很多信息当作参考，但是因为不完整，所以也是一种赌博。</li></ul><p>唯一可能没有赌博操作的，可能就只有指数定投了，因为它放弃了择股和择时，它是纯粹挣市场的钱，而其它的都不是。</p><h2 id="如何研究公司"><a href="#如何研究公司" class="headerlink" title="如何研究公司"></a>如何研究公司</h2><p>方三文认为研究公司研究 3 件事情就可以了：</p><ul><li>所处行业是否可持续增长。</li><li>商业模式是否有优势和壁垒。</li><li>公司的治理结构和创始人人格是否有优势。</li></ul><h3 id="行业"><a href="#行业" class="headerlink" title="行业"></a>行业</h3><p>书中讲到很多案例，对于行业的案例中，我印象最深的是移动互联网。这是我亲身经历的行业，我是最早的一批 iOS 开发者，经历了移动互联网从 2010 年起步到飞速发展的这十年。</p><p>其实移动互联网对于整个行业的影响是巨大的，但是我身处当中对此其实并不敏感，本质上就是一个人拥有了一块随时在线的屏幕。这对于信息交流的便利性，实时性，以及内容展示的个性化，位置化都是极大的改变。</p><h3 id="公司治理"><a href="#公司治理" class="headerlink" title="公司治理"></a>公司治理</h3><p>方三文在书中介绍了他是如何研究比亚迪的公司治理的：</p><ul><li>有空就去比亚迪 4S 店观察，跟销售员和顾客交流</li><li>从供应商那儿打听比亚迪的采购体系</li><li>看公司对外的承诺是否兑现过</li></ul><p>有一些公司，治理结构相对不那么重要，反倒显示出这个公司壁垒高，比如茅台。</p><h2 id="估值"><a href="#估值" class="headerlink" title="估值"></a>估值</h2><p>书中又一次讲到了「现金流折现法」，我最早是在段永平的一个采访文章中看到的。</p><p>现金流折现（discounted cash flow ，DCF）旨在通过将所有未来的现金流折成现值来求得资产内在价值。相关的介绍文章很多，比如知乎上的<a href="https://www.zhihu.com/question/23005134" target="_blank" rel="noopener">这篇文章</a>。</p><p>估值方面，段永平介绍过<a href="https://zhuanlan.zhihu.com/p/80541445" target="_blank" rel="noopener">《谈毛估估的思路与方法》</a>，其实也挺有价值，里面提到的估值法包括：</p><ul><li>现金流折现法</li><li>存银行本金估值法</li><li>市盈率（PE）估值法</li><li>隐性资产估值法</li><li>企业价值（含负债）e/e估值法</li></ul><p>这些计算其实都不算是特别精细，都是估算，所以段永平叫毛估估。但是如果初步算起来，都觉得特别便宜，那可能股价就是便宜的。</p><h2 id="什么时候卖出"><a href="#什么时候卖出" class="headerlink" title="什么时候卖出"></a>什么时候卖出</h2><p>有人说，价值投资者就应该永远持有股票，或者至少持有 5 年以上。我去年 220 多买了特斯拉，年底 420 卖出了，很多人评论我这个是伪价值投资。这让我一度思考应该什么时候卖出标的。</p><p>我去年觉得特斯拉的估值底部在 300 亿美元，所以我就在那个区间买入，但是涨到多少是合理的，我并不清楚，所以就没拿住，这也算是我能力不行吧。</p><p>就巴菲特来看，他既有像可口可乐这种长期持有的案例，也有像中石油，迪士尼这种高价卖出的案例。</p><p>就本书的讨论来看，我觉得卖出标的时机还是这个股票的价格远远超过了它的价值。那远远是多远呢？我想了一个办法：如果这家公司的行业/模式/治理都好，那就以一个偏长期（5-10年）的心态，来计算出公司未来的长期赢利能力，然后买入之后的目标就是持有到这种长期赢利能力达成之后的合理股价。</p><p>一般来说，一个行业/模式/治理都好的公司，10 年之后的复合增长应该是非常夸张的。这个时候计算出来的长期合理股价就会非常高，这个时候中途卖掉之后，不排除就遇不到合理的买回来的机会了，那不如就长期持有了。</p><h2 id="资产配置"><a href="#资产配置" class="headerlink" title="资产配置"></a>资产配置</h2><p>其实资产配置就是把钱放在合适风险的产品上。</p><ul><li>银行活期，零风格，但是利率低。</li><li>银行定期，失去一定流动性，但是利率变高。</li><li>货币基金，低风险。比活期和短期的定期都好，现在大概 3% 左右。</li><li>债券基金，中低风险，平均能到 5% 左右。</li><li>信托，风险再高一些，牺牲流动性，收益能再高一些。</li><li>股票型基金，中高风险，有可能做到 10% 以上的收益。</li><li>股票，高风险。</li></ul><p>所谓的资产配置，就是你在调几个参数：风险、流动性、波动率。高收益的配置同时也意味着高风险，流动性差，流动率高。</p><p>下图是中国的各类资产规模情况：</p><img src="/images/distribution.jpg" class=""><p>具体怎么做呢？</p><ul><li>把保命的钱放在低风险资产中，这部分的钱至少是家庭未来 6 个月的开销。</li><li>把你亏得起、亏光不影响生活的钱放在中高风险的产品中，最多不超过 1/3。</li></ul><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>方三文的这本书给我带来了一些关于投资的思考，包括：</p><ul><li>如何研究公司：行业/公司/管理层</li><li>如何估值公司</li><li>什么时候卖出股票</li><li>资产配置的思考</li></ul><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><ul><li><a href="https://www.zhihu.com/question/23005134" target="_blank" rel="noopener">https://www.zhihu.com/question/23005134</a></li><li><a href="https://zhuanlan.zhihu.com/p/80541445" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/80541445</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/snowball-ceo-book.jpg&quot; class=&quot;&quot;&gt;
+
+&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;最近读完了雪球 CEO 方三文的《您
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 Automator 自动化你的工作</title>
+    <link href="https://blog.devtang.com/2020/03/25/automatic-thinking/"/>
+    <id>https://blog.devtang.com/2020/03/25/automatic-thinking/</id>
+    <published>2020-03-25T03:52:39.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/automator.png" class=""><h2 id="开端"><a href="#开端" class="headerlink" title="开端"></a>开端</h2><p>最近需要压缩一些 MP3 和 MP4 的大小。首先我在网上搜了一下相关的 App，试了好几个都没有理想的，于是我就想用 ffmpeg 或许更方便一些。</p><p>安装好 <a href="https://www.ffmpeg.org/download.html" target="_blank" rel="noopener">ffmpeg</a> 之后，我搜了一下，找到了相关的压缩指令：</p><p><a href="https://superuser.com/questions/552817/fastest-way-to-convert-any-audio-file-to-low-bitrate" target="_blank" rel="noopener">压缩 MP3</a>：</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ffmpeg -i source.mp3 -map 0:a:0 -b:a 96k dest.mp3</span><br></pre></td></tr></table></figure><p><a href="https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg" target="_blank" rel="noopener">压缩 MP4</a>:</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ffmpeg -i source.mp4 -vcodec libx265 -crf 26 dest.mp4</span><br></pre></td></tr></table></figure><p>于是，我很快就完成了相关的压缩。</p><h2 id="存档和同步"><a href="#存档和同步" class="headerlink" title="存档和同步"></a>存档和同步</h2><p>不过，我发现这些指令参数都很长，我很可能下次用的时候还是记不住要查询。于是，我想到了 <a href="hDashttps://kapeli.com/dash">Dash</a>。</p><img src="/images/dash-0.jpg" class=""><p>Dash 是为程序员提供的一个文档查找工具，同时它还有一个代码片段（Snippets）功能，可以帮助你保存和查询常用的代码片段。</p><p>我首先把这些命令放到了我的 Dash 的 Snippets 里，这样我以后只需要输入 <code>mp3</code> 或者 <code>compress</code> 或者 <code>ffmpeg</code> 即可调出这条命令（如下图）。</p><img src="/images/dash-1.jpg" class=""><p>我的 Dash 的存储目录是在 Dropbox 下，于是这条命令<strong>自动同步</strong>到了我所有的电脑中。</p><h2 id="Automator"><a href="#Automator" class="headerlink" title="Automator"></a>Automator</h2><p>但是这样的使用还是不够方便，因为我还是需要切换到命令行来输入这些指令，我想以后能不能我在 mp3 或 mp4 文件上点击右键，就自动出现相关的压缩指令呢？于是我想到了 Mac 自带的 <a href="https://support.apple.com/zh-cn/HT2488" target="_blank" rel="noopener">Automator</a>。</p><p>Automator 可以帮你将一些自动化的流程转换成右键菜单甚至是 App。</p><p>首先在 Application 目录下找到 Automator 并启动它。然后选择新建一个 Quick Action:</p><img src="/images/quick-action-1.jpg" class=""><p>接着，设置 workflow 只在音频文件的右键菜单中出现，也只在 Finder 中生效。</p><img src="/images/quick-action-2.jpg" class=""><p>接下来进行 3 步：</p><ul><li>拖入一个 「Run Shell Script」模块</li><li>将「Pass input」设置成 <code>as arguments</code></li><li>在 Shell 中填入以下内容</li></ul><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 输入文件</span></span><br><span class="line">fileName=<span class="variable">$1</span></span><br><span class="line"><span class="comment"># 输出文件名</span></span><br><span class="line">targetName=<span class="variable">$&#123;fileName:0:-4&#125;</span><span class="string">"-compressed.mp3"</span></span><br><span class="line"></span><br><span class="line">/usr/<span class="built_in">local</span>/bin/ffmpeg -i <span class="variable">$fileName</span> -map 0:a:0 -b:a 96k <span class="variable">$targetName</span></span><br></pre></td></tr></table></figure><img src="/images/quick-action-3.jpg" class=""><p>编辑完成之后保存。找一个 MP3 文件测试，在 finder 中右键已经可以出现我们想到的菜单了：</p><img src="/images/quick-action-4.jpg" class=""><p>以下是最终的操作效果图(用 <a href="https://ezgif.com/" target="_blank" rel="noopener">EZGif</a> 生成）：</p><img src="/images/automator-effect.gif" class=""><h2 id="运行状态"><a href="#运行状态" class="headerlink" title="运行状态"></a>运行状态</h2><p>像这种运行时间挺长的执令，其实可以在系统的顶部状态栏看到一个滚动的小齿轮，点击即可看到运行状态：</p><img src="/images/automator-processing.gif" class=""><h2 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h2><p><del>Service 是保存在本地的，我们还是要备份一下，直接复制到 Dropbox 同步盘即可： cp -r ~/Library/Services/* ~/Dropbox/Service-backup/ ~</del></p><p>可以直接将 workflow 文件保存到 iCloud 上：</p><img src="/images/automator-icloud.jpg" class=""><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p><a href="https://kapeli.com/dash" target="_blank" rel="noopener">Dash</a> 和 <a href="https://support.apple.com/zh-cn/HT2488" target="_blank" rel="noopener">Automator</a> 是你自动化命令的好帮手，再借助 Dropbox、iCloud 等云盘将它们同步到你所有的电脑，你就可以随时随地使用这些命令。</p><p>祝大家玩得开心~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/automator.png&quot; class=&quot;&quot;&gt;
+
+&lt;h2 id=&quot;开端&quot;&gt;&lt;a href=&quot;#开端&quot; class=&quot;headerlink&quot; title=&quot;开端&quot;&gt;&lt;/a&gt;开端&lt;/h2&gt;&lt;p&gt;最近需要压缩一些 MP3 和 MP4 的大小。首先我
+      
+    
+    </summary>
+    
+    
+      <category term="shell" scheme="https://blog.devtang.com/categories/shell/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>美股期权学习笔记（四）</title>
+    <link href="https://blog.devtang.com/2020/03/22/option-learning-note-4/"/>
+    <id>https://blog.devtang.com/2020/03/22/option-learning-note-4/</id>
+    <published>2020-03-22T13:40:01.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>前面写完了 3 篇笔记之后，说说我的一些体会吧。</p><h2 id="期权不适合大部分人"><a href="#期权不适合大部分人" class="headerlink" title="期权不适合大部分人"></a>期权不适合大部分人</h2><p>期权的操作太复杂，不适合大部分人，特别是通过期权组合来建立各种头寸，对非专业人士来说很难掌握。</p><p>我感觉如果要成为这方面的专家，应该需要投入非常多的时间，对于普通人来说不但不划算，而且即便投入了也不一定能挣到钱。</p><h2 id="用裸卖看跌（PUT-期权来买入股票"><a href="#用裸卖看跌（PUT-期权来买入股票" class="headerlink" title="用裸卖看跌（PUT)期权来买入股票"></a>用裸卖看跌（PUT)期权来买入股票</h2><p>用裸卖看跌（PUT)期权来尝试降低买入股票的价格，是我认为<strong>唯一</strong>适合普通投资人尝试的操作。</p><p>比如特斯拉现在股票值 450，但是你觉得只有跌到 220 你才愿意买入。那你可以裸卖出一周或一个月到期的 220 元的 PUT 期权。这样：</p><ul><li>如果到期时股价跌到 220 以下，你则以 220 完成了建仓。</li><li>如果到期时股价没有跌到 220 以下，你则收取了权利金。</li></ul><p>这个事情的风险有几个:</p><ul><li>如果股价跌得特别多（比如跌到 100），这种操作实际上把买入的价格被锁定到了 220，造成帐面上的亏损。</li><li>如果股价上涨很多，这种操作会失去拥有这个股票的机会。</li></ul><h2 id="产品化的版本"><a href="#产品化的版本" class="headerlink" title="产品化的版本"></a>产品化的版本</h2><p>该操作被一个 App 产品化了，这个 App 叫<a href="https://www.toweringsecurities.cn/" target="_blank" rel="noopener">高格证券</a>。高格证券把该操作称作「优买计划」，如下图所示：</p><img src="/images/gaoge.jpg" class=""><p>我觉得这种产品化的思路还挺好，首先它强化了这个策略应该用来长期持有看好的股票。然后它把权利金描述成现金收益，并且提供了年化收益和买入概率等信息。</p><p>如果你打算尝试，可以用我的邀请二维码（下图），这样我们俩各可以获得 5 美金的现金奖励。</p><img src="/images/gaoge-invite.jpg" class=""><p>也说说高格的缺点吧。高格的优势也同时是它的劣势，因为高格把它产品化了，为你隐藏了大量信息，所以你也就无法做各种各样期权的组合以及中途回购期权。另外从保证金角度，如果是深度的虚值期权，保证金会动态变化，大多时候不会到 100%，而高格因为是鼓励以购买为目标来使用「优买计划」，所以你需要交 100% 的保证金。</p><h2 id="该操作的风险"><a href="#该操作的风险" class="headerlink" title="该操作的风险"></a>该操作的风险</h2><p>《麦克米伦谈期权》的 2.5.3 章节提到了这种操作。作者认为，如果你目的并不是持有股票，而是通过这种方式获取权利金，那么极端风险情况下，你会有极大的账面损失。书中也讲了一个真实的案例：</p><blockquote><p>市场上的专业投资者在裸卖空看跌期权的时候，喜欢选择低权利金，低波动率的股票，而 IBM 就是一个这类的股票。当时，IBM 的股价是 100 ~ 105 之间，挂牌的有行价权为 90 的 IBM 长期期权。<br>许多投资者裸卖出了看跌期权，他们的理由是他们不介意有机会以 90 的价格持有 IBM 的股票。<br>结果，IBM 的股价意外下跌到了 45。这个期权由虚值变为了深度实值。虽然期权没有到期，但是因为它是深度实值，很多被对手方提前行权了。<br>最后分析发现，其中很多投资者并没有打算真正地在熊市中持有 IBM 的股票。</p></blockquote><p>所以，这个故事告诉我们，再好的股票也有经历它自己的熊市的时候，而当事件发生时，裸卖空看跌期权就会遭受损失。</p><p>如果你想控制这种情况发生时的风险，有一个办法是用更低的成本买入深度虚值看跌期权，这样就形成了一个牛市价差的期权组合，这将控制你的下行风险。下图是牛市价差的盈亏图。</p><img src="/images/sell-put_buy-put.jpg" class=""><h2 id="我自己的一些体会"><a href="#我自己的一些体会" class="headerlink" title="我自己的一些体会"></a>我自己的一些体会</h2><p>我自己尝试了一段时间裸卖空看跌（PUT)期权，以下是一些感悟：</p><ul><li><p>期权的到期时间不要过长。最好不要超过 3 个月。主要的原因一个是 3 个月时间波动可能非常大，另一个原因是你的保证金锁定时间太长。我建议过期时间选择 1 周 ~ 1 个月这个范围。</p></li><li><p>想清楚自己是为了挣权利金还是持有。如果是为了持有，不要将卖空的价格设置得特别低，否则大概率是不可能完成建仓的。而一些极端情况下完成的建仓，真正发生的时候，可能跌幅就不止是当时设置的那个买入价了。</p></li><li><p>如果是为了挣权利金而裸卖空看跌（PUT)期权。那么需要关注好 Theta 指标和 Vega 指标。因为 Theta 是时间价值指标。如果 Theta 指标特别低，而期权收益又高的话，那很可能是由于波动率（Vega）高带来的。那么这么高的波动率本身可能就意味着买入的风险。最好选低波动率的，同时时间价值高的期权。例如：下图中的一周到期的 Tesla 期权，Theta 值就很高：</p></li></ul><img src="/images/theta-tesla.jpg" class=""><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>一些朋友告诫我不要操作任何期权，我觉得他们说的很可能是对的。我的以上总结大概率是有一些片面性的，未来我也有极大可能交一些学费。</p><p>不过，如果使用完全不影响生活质量的钱，抱着学习的心态，不上杠杠，心里能够接受最后全部赔光，我想这样也没什么大不了。人生苦短，生活总得有些事情不试试不死心，对吧。</p><p>愿大家玩得开心！</p><p>本系列文章汇总：</p><ul><li><a href="/2020/02/08/option-learning-note/">美股期权学习笔记（一）</a></li><li><a href="/2020/03/15/option-learning-notes-1/">美股期权学习笔记（二）</a></li><li><a href="/2020/03/21/option-learning-notes-3/">美股期权学习笔记（三）</a></li><li><a href="/2020/03/22/option-learning-notes-3/">美股期权学习笔记（四）</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前面写完了 3 篇笔记之后，说说我的一些体会吧。&lt;/p&gt;
+&lt;h2 id=&quot;期权不适合大部分人&quot;&gt;&lt;a href=&quot;#期权不适合大部分人&quot; class=&quot;headerlink&quot; title=&quot;期权不适合大部分人&quot;&gt;&lt;/a&gt;期权不适合大部分人&lt;/h2&gt;&lt;p&gt;期权的操作太复杂，不
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美股期权学习笔记（三）</title>
+    <link href="https://blog.devtang.com/2020/03/21/option-learning-notes-3/"/>
+    <id>https://blog.devtang.com/2020/03/21/option-learning-notes-3/</id>
+    <published>2020-03-21T03:02:41.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇再展开讨论一下期权的指标。</p><h2 id="影响期权的变量"><a href="#影响期权的变量" class="headerlink" title="影响期权的变量"></a>影响期权的变量</h2><p>期权因为相关的变量很多，包括时间，行权价等。所以任何一个变量变化就会影响期权的价格。人们研究发现，影响期权的价格因素一共有如下 6 个：</p><ul><li>标的资产价格。对于看涨期权，标的资产上涨，看涨期权也上涨。</li><li>期权行权价格。</li><li>距离到期时间的长短。</li><li>标的波动率。标的波动率越高，期权价格越高。</li><li>短期利率，一般是 90 天的短期票据利率。</li><li>股息。公司如果提高股息，看涨期权会下跌，看跌期权上涨。因为股价会随着派息后下降，但是期权所有人无法获得股息。</li></ul><p>实值期权和虚值期权受到期时间的影响不一样：</p><ul><li>距离到期时间越近，虚值期权的价格越低。所以会出现随着临近，虚值的看涨和看跌期权都下跌的情况。</li><li>距离到期时间越近，实值期权的价值越来越接近标的行权价与市场价的差价。</li></ul><p>对此，《麦克米伦谈期权》1.9.2 节有一个汇总表格：</p><img src="/images/option-price-factors.jpg" class=""><h2 id="期权的指标"><a href="#期权的指标" class="headerlink" title="期权的指标"></a>期权的指标</h2><p>为了更好的理解期权，人们又抽象出一些指标来描述它。</p><h3 id="Delta"><a href="#Delta" class="headerlink" title="Delta"></a>Delta</h3><p>Delta 表示随着股价的变化，期权价格的变化速度。Delta 变化区间在 <code>[-1, 1]</code> 之间。其中看涨期权的 Delta 变化区间在 <code>[0, 1]</code>，看跌期权的 Delta 变化区间在 <code>[-1, 0]</code>。</p><p>比如 Delta 为 0.5 就表示，股价每变化 1 点，期权变化 0.5 点。比如实值的看涨期权，Delta 就比较高，股价每上涨 1 点，期权几乎也上涨 1 点。</p><p>实值看涨期权的 Delta 接近 1，虚值看涨期权的 Delta 接近 0 一些。说明实值看涨期权更像是股票。</p><p>如果 Delta 为 0，则表示无论股价怎么变化，该组合的价格都不会变化，这种情况下，我们也称作该组合的 Delta 是中性，这也解释了上面提到的套利为什么被称作 <strong>Delta 中性头寸</strong>。</p><p>Delta 随着时间也会变化。比如对于虚值期权来说，随着时间流逝，它的 Delta 会趋于 0。因为时间越接近，股价的波动除非将虚值改变为实值，否则就没有意义。</p><p>与虚值期权相反，实值期权随着时间的流逝，它的 Delta 会趋近于 1（或-1）。因为这个时候，期权的时间价值几乎没有了，它的价格反映的就是行权价和股价之间的差。</p><p>书中对 Delta 还有一种另类的看待角度：<strong>Delta 可以看作期权最终到期时为实值期权的概率</strong>。虽然数学解释不严谨，但是很有效。</p><h3 id="波动率"><a href="#波动率" class="headerlink" title="波动率"></a>波动率</h3><p>波动率是用来衡量标的价格变化速度。</p><ul><li>历史波动率（historical volatility）是根据股票历史的波动率数据，是算出来的。</li><li>隐含波动率（implied volatility）是隐含在场内期权价格中的未来波动率水平。</li></ul><p>当隐含波动率远高于历史波动率，说明股票在经历一些事件，例如：并购，诉讼，重大合作，重大危机，这些事件因为没有确定，所以买卖双方力量均衡，但事件结束后股票就会有大的变化。</p><p>书中 6.6.2 节举了一个有趣的例子：</p><blockquote><p>1994 年，一家名为 Gensia 的制药公司被 FDA 宣布，将对它的主要药品举行听证会。该公司的股票没有什么巨大的波动，因为 FDA 的结果没有出来，所以看多和看空的双方力量均衡。<br>但是，这家公司的期权的隐含波动率即上升至 140% 左右的区域。这是因为交易者知道 FDA 的结果将决定这家公司的成败。结果 FDA 最终做出了不利于这家公司的决定。<br>这家公司股价瞬间下跌 50%，同时期权的隐含波动率回归到了正常水平。</p></blockquote><h3 id="Vega"><a href="#Vega" class="headerlink" title="Vega"></a>Vega</h3><p>Vega 描述的是波动率的变化如何影响期权价格（假定其它变量不变）。实际上 Vaga 就是代表的是隐含波动率。</p><ul><li>Vega 值如果为 -5.0，则表示波动率每增加 1 点，期权会亏损 500 元。</li><li>Vega 值如果为 +5.0，则表示波动率每增加 1 点，期权会收益 500 元。</li></ul><p>所以 Vega 代表的是波动率变化后，期权价格的变化情况。</p><h3 id="Theta"><a href="#Theta" class="headerlink" title="Theta"></a>Theta</h3><p>Theta 表示的是期权时间价值的减少。它是用负数来表示的，期权每过一天它的时间价值就会减少一些。</p><p>如果一个期权到期时间还很长，那么它的 Theta 值可能非常低。</p><p>例如：下图是 哔哩哔哩（BILI）在 3.20 的一份 7.17 到期的 22.5 PUT 合约，可以看到因为到期时间还有 4 个月，所以每天由于时间因素带来的影响只有 -0.014：</p><img src="/images/theta.jpg" class=""><p>而与此对比，只有一周就到期的 3.27 Tesla PUT 的 Theta 则高达 -0.23：</p><img src="/images/theta-tesla.jpg" class=""><h3 id="Rho"><a href="#Rho" class="headerlink" title="Rho"></a>Rho</h3><p>Rho 表示的是利率变化对于期权价格的影响。但是大部分活跃的期权交易因为到期时间都比较短（1-3个月），所以 Rho 的值都很小。</p><h3 id="Gamma"><a href="#Gamma" class="headerlink" title="Gamma"></a>Gamma</h3><p>因为 Delta 和 Vaga 值会变化得非常快，不利于构建中性头寸，所以理论家们又引入了 Gamma。</p><p>Gamma 是衡量 Delta 变化快慢的指标。如果 Delta 和 Gamma 都是中性的，那么组合保持中性的概率就高了很多。</p><p>对于如何建立一个中性头寸组合，书中介绍了详细的方法，但估计一般人都应该用不到，我就不展开介绍了。</p><h3 id="时间价值"><a href="#时间价值" class="headerlink" title="时间价值"></a>时间价值</h3><p>期权时间价值是指期权合约的购买者为购买期权而支付的权利金超过期权内在价值的那部分价值。期权购买者之所以愿意支付时间价值，是因为他预期随着时间的推移和市价的变动，期权的内在价值会增加。</p><p>期权的内在价值是通过对标的股票价格变化而变化的，如果股票没有超着预期的方向波动，那么期权的内在价值就不会增加，而随着时间流逝，期权的时间价值又会减少，期权的价值就会减少。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>因为期权的影响因素很多，所以人们抽像出来 Delta, Vega, Theta 等指标来更好地理解它。</p><p>本系列文章汇总：</p><ul><li><a href="/2020/02/08/option-learning-note/">美股期权学习笔记（一）</a></li><li><a href="/2020/03/15/option-learning-notes-1/">美股期权学习笔记（二）</a></li><li><a href="/2020/03/21/option-learning-notes-3/">美股期权学习笔记（三）</a></li><li><a href="/2020/03/22/option-learning-notes-3/">美股期权学习笔记（四）</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这篇再展开讨论一下期权的指标。&lt;/p&gt;
+&lt;h2 id=&quot;影响期权的变量&quot;&gt;&lt;a href=&quot;#影响期权的变量&quot; class=&quot;headerlink&quot; title=&quot;影响期权的变量&quot;&gt;&lt;/a&gt;影响期权的变量&lt;/h2&gt;&lt;p&gt;期权因为相关的变量很多，包括时间，行权价等。所以任何一
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美股期权学习笔记（二）</title>
+    <link href="https://blog.devtang.com/2020/03/15/option-learning-notes-1/"/>
+    <id>https://blog.devtang.com/2020/03/15/option-learning-notes-1/</id>
+    <published>2020-03-15T14:41:43.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近研读了《麦克米伦谈期权》，以下是一些总结。</p><h2 id="什么是期权"><a href="#什么是期权" class="headerlink" title="什么是期权"></a>什么是期权</h2><p>期权是以特定价格买入或者卖出特定证券的权利，该权利在特定时间内有效。</p><p>期权有几个关键的概念：</p><ul><li>过期时间（expiration date），到了时间就过期。有期权的一方可以在到期前选择执行期权或放弃执行。</li><li>行权价（strike price），买卖双方按行权价执行。</li><li>权利金（premium），也就是期权的现金价值。期权的现金价值会随着时间以及股价波动。</li><li>类型。分为买入权利（CALL）和卖出权利（PUT）。CAll 又被称为看涨期权，PUT 被称为看跌期权。</li><li>标的。指目标期权。</li></ul><p>期权在美股上按手交易，每手代表 100 份标的。据说历史上有人把 1 手当成 1 股，结果就是多买了 100 倍的期权。</p><h2 id="行权时间"><a href="#行权时间" class="headerlink" title="行权时间"></a>行权时间</h2><p>美式期权和欧式期权不一样，美式期权可以在到期前的任意时间随时行权，欧式期权只能在到期时行权。美股上交易的股票期权都是美式期权。大部分的指数期权是欧式期权。</p><p>所以，对于美式期权，如果你通过卖 CALL 或者卖 PUT 做空一个期权，即使最终到了过期时间你的期权收益为正，但是有可能在中段波动的时候，你的期权在某一个时间点是亏损的，只要你的对手方提前行权了，你的这个亏损就被确定了。</p><p>我使用的期权软件背后的券商是<a href="https://www.interactivebrokers.com.hk/cn/home.phplink" target="_blank" rel="noopener">盈透证券（IB）</a>, 使用它提供的 <a href="https://www1.interactivebrokers.com/en/index.php?f=16040" target="_blank" rel="noopener">TWS 软件</a>，即可将自己的期权提前行权。</p><p>具体操作方式是在 TWS 中选择 “账户”-&gt;“期权行权”，然后操作相关的期权选择“提前行权”即可，如下图所示：</p><img src="/images/tws-1.jpg" class=""><img src="/images/tws-2.jpg" class=""><h2 id="期权拥有方到期的默认操作"><a href="#期权拥有方到期的默认操作" class="headerlink" title="期权拥有方到期的默认操作"></a>期权拥有方到期的默认操作</h2><p>期权拥有方按理说在到期时有行权和不行权的权利，那么如果不进行任何操作，默认的操作是行权还是不行权呢？美股的规则如下：</p><ul><li><p>到期日，期权在价内 0.01 或以上的股票期权将被自动行权，但是当投资者的保证金不满足行权条件时则会按照市场价平仓。</p></li><li><p>到期日，价格已低于 0.01 且投资者不主动行权或者平仓。这时候期权会自动失效，您的损失为全部期权费；一般情况下，这时候如果主动行权损失会更多。</p></li></ul><h2 id="实值期权与虚值期权"><a href="#实值期权与虚值期权" class="headerlink" title="实值期权与虚值期权"></a>实值期权与虚值期权</h2><p>如果行权价低于股票的价格，则我们称这个期权是有实值的，是实值期权，反之则称为虚值期权。</p><p>虚值期权之所以有交易，是因为它们具有时间价值，随着时间的变化，股价也会变动，有可能当时还是虚值的期权，未来就是实值了。</p><p>如果到了期权的到期时间，期权还是一个虚值期权，则它的价值就会归为 0。比如一个以 30 元买入的看涨期权，如果到期时股票价格是 20 元，那么期权所有者肯定不会行权，因为行权的价格比从市场上直接买还贵，这个期权就相当于废纸。</p><h2 id="盈亏曲线"><a href="#盈亏曲线" class="headerlink" title="盈亏曲线"></a>盈亏曲线</h2><p>我们假设某家公司的股价是 50 元，然后可以画出不同期权的盈亏曲线。不得不说，画这些图还挺有意思的，笔者用 keynote 完成的所有图的绘制。</p><h3 id="买入看涨期权"><a href="#买入看涨期权" class="headerlink" title="买入看涨期权"></a>买入看涨期权</h3><p>买入行权价 52 元的看涨期权的价格是 2 元，则盈亏曲线如下：</p><img src="/images/buy-call.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价低于 52 元时，损失为 200 元（1手期权的价格）</li><li>当股价等于 54 元时，刚好盈亏平衡</li><li>当股价高于 54 元时，有盈利</li><li>买入看涨期权，最大损失为 200 元，最大盈利无上限</li></ul><h3 id="卖出看涨期权"><a href="#卖出看涨期权" class="headerlink" title="卖出看涨期权"></a>卖出看涨期权</h3><p>卖出看涨期权的盈亏曲线和买入的刚好上下对称，因为两者互为对手盘。你盈多少，对手就亏多少，所以盈亏曲线如下：</p><img src="/images/sell-call.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价低于 52 元时，盈利为 200 元（1手期权的价格）</li><li>当股价等于 54 元时，刚好盈亏平衡</li><li>当股价高于 54 元时，有亏损</li><li>卖出看涨期权，最大收益为 200 元，最大亏损无上限</li></ul><h3 id="买入看空期权"><a href="#买入看空期权" class="headerlink" title="买入看空期权"></a>买入看空期权</h3><p>如果我们买入一个 48 元的期权，期权价格是 2 元，则盈亏曲线如下：</p><img src="/images/buy-put.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价高于 48 元，则亏损为 200 元（1手期权的价格）</li><li>当股价等于 46 元，刚好盈亏平衡</li><li>当股价低于 46 元，则有盈利。理论上，最高盈利是 4600 元，对应股价是 0 元。</li></ul><h3 id="卖出看空期权"><a href="#卖出看空期权" class="headerlink" title="卖出看空期权"></a>卖出看空期权</h3><p>同样，卖出看跌期权的盈亏曲线和买入的刚好上下对称，因为两者互为对手盘。盈亏曲线如下：</p><img src="/images/sell-put.jpg" class=""><p>从图中可以看出，期权到期时：</p><ul><li>当股价高于 48 元，则盈利为 200 元（1手期权的价格）</li><li>当股价等于 46 元，刚好盈亏平衡</li><li>当股价低于 46 元，则有亏损。理论上，最高亏损是 4600 元，对应股价是 0 元。</li></ul><h2 id="保证金"><a href="#保证金" class="headerlink" title="保证金"></a>保证金</h2><p>当你买 CALL 或者买 PUT ，你付出的就是权利金，损失是有限的，最坏情况下就是期权价值变为 0，损失掉所有的权利金。但是你的理论收益是无穷的。</p><p>当你卖 CALL 或者卖 PUT，你就会收到权利金，但是你的收益上限就是权利金。当你的对手方行权的时候，你需要执行相应的义务：</p><ul><li>对于 CALL 期权，你需要按指定价格卖出标的股票</li><li>对于 PUT 期权，你需要按指定价格买入标的股票</li></ul><p>为了保证你有行使这个义务的能力，你需要在帐户中保留足够的保证金。保证金的计算规则比较复杂，与你的期权仓位占比以及期权集中性都有关系，在盈透证券的<a href="https://www.interactivebrokers.com.hk/cn/index.php?f=27149" target="_blank" rel="noopener">帮助页面</a>上有详细的介绍。</p><p>如果你的证券价值和现金加起来的保证金不足，则系统会随机平仓你的一部分股票以维持保证金要求。</p><h2 id="期权的组合（一）"><a href="#期权的组合（一）" class="headerlink" title="期权的组合（一）"></a>期权的组合（一）</h2><p>期权组合起来，可以构建一些特殊的盈利曲线。比如我们同时卖出看涨和看跌期权，就可以将以下两种曲线叠加。《麦克米伦谈期权》在 2.5.5 小结中介绍了这种被称为跨式期权的组合。</p><p>下图中的红色和蓝色分别为卖出看跌和卖出看涨的盈亏曲线，而黄色则表示叠加之后的组合盈亏曲线。</p><img src="/images/sell-buy-put.jpg" class=""><p>这个曲线很有意思，它表示不管股票是上涨还是下跌，只要股价到期时的波动范围在 44 ~ 52 元之间，这个组合就是盈利的。</p><p>想当然的，你可以构建一个波动范围极宽的跨式组合期权，虽然这种组合期权盈利不多，但是盈利的概率极大。历史上曾经这种策略很流行，但是市场总是会出现小概率事件，这种跨式期权收益有上限，但是亏损无限的特点，遇上一次极端事件就能让投资者破产。</p><h2 id="期权的组合（二）"><a href="#期权的组合（二）" class="headerlink" title="期权的组合（二）"></a>期权的组合（二）</h2><p>相比刚刚介绍的那种组合，以下的期权组合更被做市商所采用，即：买入看涨期权 + 卖出看跌期权。</p><p>你看完下图就能明白这个组合的有趣之处了：</p><img src="/images/buy-call-sell-put.jpg" class=""><p>这种组合的收益曲线和直接买入股票是完全一样的。但是在这种组合下，你所需要的资金只是买入股票的一部分，所以你可以以更小的资金成本，达到同样的收益曲线。</p><p>实际当中，这种策略与买入股票并不是完全一样收益，因为股票还会涉及分红，而持有期权是没有分红权的。另外则是交易费率和交易次数的差异。</p><h2 id="组合套利"><a href="#组合套利" class="headerlink" title="组合套利"></a>组合套利</h2><p>因为买卖价差的原因，有些时候做市商会通过组合，构建一个收益为正，但是风险为零的套利。</p><p>刚刚说到<code>期权的组合（二）</code>就是一种持有股票的策略，如果我们用<code>期权组合（二）</code>再加上<code>卖空股票</code>，就构建出一种组合。由于买卖价差的原因，这种组合虽然相当于什么都没干，但是却会有收益。</p><p>以下我就以一个实际的案例进行说明。我们拿好未来在美股的真实股价与期权价举例。</p><p>好未来在 3 月 6 日的收盘价格是 56.49，同时</p><ul><li>4.17 到期的 50 元看涨期权挂单价格是 7.8(买) ~ 9.8（卖），最近成交价是 7.62</li><li>4.17 到期的 50 元看跌期权挂单价格是 1.45（买）~ 1.95（卖），最近成交价是 1.69</li></ul><p>我们假设，我们在 3.6 收盘前，以：</p><ul><li>以 56.49 的价格卖空 100 股股票</li><li>以 7.62 的成交价买入 1 手看涨期权</li><li>以 1.69 的成交价卖出 1 手看跌期权</li></ul><p>那我们的收益应该是多少呢？为了计算收益，我们需要搬出初中学习的二元一次方程。如果你不想跟着我计算，可以直接看最后的结论。</p><h3 id="计算卖空的收益函数"><a href="#计算卖空的收益函数" class="headerlink" title="计算卖空的收益函数"></a>计算卖空的收益函数</h3><p>假设未来股价为 x，则卖空 100 股股票的收益函数 y1 为：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">y1 &#x3D; (56.49 - x) * 100</span><br><span class="line">   &#x3D; (50 - x) * 100 + 6.49 * 100</span><br><span class="line">   &#x3D; (50 - x) * 100 + 649</span><br></pre></td></tr></table></figure><p>应该很简单对吧？因为是做空，x 越大，则 y1 越小。</p><h3 id="计算买入看涨期权的收益函数"><a href="#计算买入看涨期权的收益函数" class="headerlink" title="计算买入看涨期权的收益函数"></a>计算买入看涨期权的收益函数</h3><p>假设未来股价为 x，则期权到期时收益函数 y2 为：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x &lt; 50 时：</span><br><span class="line">y2 &#x3D; -7.62 * 100 &#x3D; -762</span><br><span class="line">x &gt;&#x3D; 50 时：</span><br><span class="line">y2 &#x3D; (x - 50) * 100 - 762</span><br></pre></td></tr></table></figure><p>能看懂吧？因为期权行权价是 50，所以股价少于 50 则期权就作废了，损失为 762 元的权利金。如果股价高于 50，则可以按上面的公式来计算盈亏。</p><h3 id="计算卖出看跌期权的收益函数"><a href="#计算卖出看跌期权的收益函数" class="headerlink" title="计算卖出看跌期权的收益函数"></a>计算卖出看跌期权的收益函数</h3><p>假设未来股价为 x，则期权到期时收益函数 y3 为：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x &lt; 50 时：</span><br><span class="line">y3 &#x3D; (x - 50) * 100 + 169</span><br><span class="line">x &gt;&#x3D; 50 时：</span><br><span class="line">y3 &#x3D; 1.69 * 100 &#x3D; 169</span><br></pre></td></tr></table></figure><p>因为我们是卖出看跌，所以如果股价高于 50，我们的收益就是 169 的权利金，否则我们就需要按上面的公式计算收益。</p><h3 id="求和"><a href="#求和" class="headerlink" title="求和"></a>求和</h3><p>我们将 y1, y2, y3 进行求和</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">x &lt; 50时：</span><br><span class="line">y1 &#x3D; (50 - x) * 100 + 649</span><br><span class="line">y2 &#x3D; -762</span><br><span class="line">y3 &#x3D; (x - 50) * 100 + 169</span><br><span class="line">  求和：</span><br><span class="line">y &#x3D; y1 + y2 + y3</span><br><span class="line">  &#x3D; (50 - x) * 100 + 649 -762</span><br><span class="line">   + (x - 50) * 100 + 169</span><br><span class="line">  &#x3D; 649 - 762 + 169</span><br><span class="line">  &#x3D; 56</span><br><span class="line"></span><br><span class="line">y &gt;&#x3D; 50时：</span><br><span class="line">y1 &#x3D; (50 - x) * 100 + 649</span><br><span class="line">y2 &#x3D; (x - 50) * 100 - 762</span><br><span class="line">y3 &#x3D; 169</span><br><span class="line">  求和：</span><br><span class="line">y &#x3D; y1 + y2 + y3</span><br><span class="line">  &#x3D; (50 - x) * 100 + 649</span><br><span class="line">   + (x - 50) * 100 - 762</span><br><span class="line">   + 169</span><br><span class="line">  &#x3D; 649 - 762 + 169</span><br><span class="line">  &#x3D; 56</span><br></pre></td></tr></table></figure><p>最后，我们发现，x 不管是大于 50 还是小于 50，情况都一样，<code>y = 56</code>。</p><p>你看，如果你当时按市场价同时完成了这 3 笔交易，你就构建了一个套利。这也是做市商的生意模式。</p><p>这种组合在《麦克米伦谈期权》的 6.2 章节中被称作 <strong>Delta 中性头寸</strong>。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><ul><li>期权是以特定价格买入或者卖出特定证券的权利，该权利在特定时间内有效。</li><li>美式期权是可以提前行权的。</li><li>卖出期权收到权利金，但是需要帐户中留有足够执行期权义务的保证金。</li><li>期权的组合可以用来构建各种特殊的盈利曲线。</li><li>如果一个组合与标的股价无关，我们就说这个组合是 Delta 中性的。它可以用来做无风险套利。</li></ul><p>本系列文章汇总：</p><ul><li><a href="/2020/02/08/option-learning-note/">美股期权学习笔记（一）</a></li><li><a href="/2020/03/15/option-learning-notes-1/">美股期权学习笔记（二）</a></li><li><a href="/2020/03/21/option-learning-notes-3/">美股期权学习笔记（三）</a></li><li><a href="/2020/03/22/option-learning-notes-3/">美股期权学习笔记（四）</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近研读了《麦克米伦谈期权》，以下是一些总结。&lt;/p&gt;
+&lt;h2 id=&quot;什么是期权&quot;&gt;&lt;a href=&quot;#什么是期权&quot; class=&quot;headerlink&quot; title=&quot;什么是期权&quot;&gt;&lt;/a&gt;什么是期权&lt;/h2&gt;&lt;p&gt;期权是以特定价格买入或者卖出特定证券的权利，该权利在特
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美国，你又耍流氓了！</title>
+    <link href="https://blog.devtang.com/2020/03/08/americans-unfair-competition/"/>
+    <id>https://blog.devtang.com/2020/03/08/americans-unfair-competition/</id>
+    <published>2020-03-08T11:35:52.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a>新闻</h2><p>先说我前天看到的新闻（<a href="https://www.bloomberg.com/news/articles/2020-03-06/trump-blocks-chinese-deal-for-hotel-management-software-company" target="_blank" rel="noopener">Bloomberg链接</a>）：</p><blockquote><p>美国以国家安全为由强制要求北京中长石基信息技术股份有限公司，在 120 天内将其在 StayNTouch 的股份完全转让。StayNTouch 是一家为美国酒店提供 SAAS 服务的软件公司。<br>2018 年北京中长石基以全资收购美国移动端云 PMS 厂商 StayNTouch。现在美国政府要求中长石基转让股份强制退出。在收购前，石基从 16 年就开始投资 StayNTouch 公司。</p></blockquote><img src="/images/stayntouch.jpg" class=""><p><a href="https://baike.baidu.com/item/%E7%9F%B3%E5%9F%BA%E4%BF%A1%E6%81%AF" target="_blank" rel="noopener">石基信息</a>是一家 A 股上市公司，我查到它的市值约 450 亿人民币，是中国的民营企业 500 强。它主要的业务是为酒店、餐饮、零售和休闲娱乐行业提供软件解决方案。</p><p>我看到这个新闻感觉特别生气，因为我又一次看到了美国的流氓行为。因为如果担心安全，美国完全可以要求 StayNTouch 提供私有化部署或者甚至退出美国市场，但是美国却选择了强行要求出售自己。这背后无非是想以极低的成本，把 StayNTouch 的客户，技术，服务全部获得。</p><p>你想想，石基公司从 16 年就<a href="https://www.shijigroup.com/china-press-news/125" target="_blank" rel="noopener">投资</a>，18 年收购 StayNTouch。这就是自己的亲生儿子啊！还不把自己关于酒店 SAAS 服务的从管理到渠道，从运营到技术方方面面的能力进行输入。现在孩子养大了，却被要求强行卖掉。</p><p>这卖掉的背后是什么？不光是客户，还包括企业核心数据，战略，运营方案，技术解决方案以及渠道。</p><p>我实在没有见过吃相这么难看的特朗普。</p><p>自从特朗普上台，我就见识到了美国的贸易保护主义的政策越来越强，并且美国为了达成自己的利益，会不择手段。这些不择手段包括以下这些。</p><h2 id="如果规则不利，就退出规则"><a href="#如果规则不利，就退出规则" class="headerlink" title="如果规则不利，就退出规则"></a>如果规则不利，就退出规则</h2><p>美国加入了很多世界组织，随着组织的发展，如果出现与美国自己的利益冲突，美国就会<a href="https://www.bbc.com/zhongwen/simp/world-45941844" target="_blank" rel="noopener">退出</a>这样的组织。这些年美国退出了：</p><ul><li>跨太平洋战略经济伙伴关系协议（TPP）</li><li>《联合国巴黎气候协定》</li><li>联合国教科文组织</li><li>联合国人权理事会</li><li>伊朗核协议</li></ul><p>其中退出伊朗核协议，就是为了全面打压伊朗经济而做的。</p><h2 id="如果规则有利，就用来打压对手"><a href="#如果规则有利，就用来打压对手" class="headerlink" title="如果规则有利，就用来打压对手"></a>如果规则有利，就用来打压对手</h2><p>美国的法律和规则是管全世界的。</p><p>美国自己搞了一个《反海外腐败法》，这个法律是管全世界的，这就是说：即使你不是美国的公司，你开展的业务不在美国，只要你违反了这个法律，美国也可以把你抓到美国受审。</p><p>美国如果要制裁哪个国家，如果你和那个国家做生意，美国就可以把你抓起来审理。华为和中兴就是这样的例子。</p><p>美国当世界警察这件事情，似乎大家都已经默认接受了，但是这合理么？你想想：</p><ul><li>如果一个穆斯林国家说，所有国家的人都不准吃猪肉，如果吃就抓起来。这合理么？</li></ul><p>如果法国的某个企业在澳大利亚做生意犯了法，法国和澳大利亚都没管，美国把这个企业的人抓起来了，你觉得合理么？这个企业就是法国的<a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E6%96%AF%E9%80%9A" target="_blank" rel="noopener">阿尔斯通公司</a>。美国为什么干这个事情？因为阿尔斯通和美国的通用电气是竞争对手。这就是<a href="http://www.xinhuanet.com/world/2019-05/27/c_1124547080.htm" target="_blank" rel="noopener">《美国陷阱》</a>里面的故事，最终通用电气以极低的价格完成了对阿尔斯通的收购。</p><p>这样的故事，还在华为身上<a href="https://www.bbc.com/zhongwen/simp/world-47037396" target="_blank" rel="noopener">上演</a>。</p><img src="/images/mengwanzhou.jpg" class=""><h2 id="如果找不到规则，就用国家安全"><a href="#如果找不到规则，就用国家安全" class="headerlink" title="如果找不到规则，就用国家安全"></a>如果找不到规则，就用国家安全</h2><p>国家安全真是一个万金油规则，你说一个国家的衣食住行，哪一个不能上升到「国家安全」的高度？用一句国家安全，就可以打压非美国的资本和企业。</p><p>就在前天，美国强制让中国上市公司石基在 120 天内出售自己旗下的 StayNTouch 公司，理由就是「国家安全」。</p><p>中国也有涉及国家安全的担心，我们看看中国是怎么做的呢？苹果手机的 iCloud 服务可能收集到全国人民的数据，于是我们让苹果将数据保存在中国，并由一家叫 “云上贵州” 的公司存储。这不就解决了？</p><p>对于 StayNTouch 存储的酒店数据，美国可以有无数种方式来更合理的解决，比如：</p><ul><li>要求 StayNTouch 将数据存储在第三方有监管的公司。类似于苹果的 iCloud 服务。</li><li>提供独立部署运营方案。类似于私有化部署的网盘服务、文档协作服务。</li><li>要求第三方审计公司来审计数据安全性。</li><li>如果万一泄漏用户隐私，采取巨额的罚款。</li></ul><p>最差最差，美国可以强制要求酒店不能使用 StayNTouch 提供的服务，就像强迫很多国家不使用华为的 5G 技术一样。但是美国选择了强制收购！</p><h3 id="美国代表正义么"><a href="#美国代表正义么" class="headerlink" title="美国代表正义么"></a>美国代表正义么</h3><p>为什么美国的法律和规则就可以管全世界，别的国家的法律和规则只能管自己呢？我想到了一种情况，就是美国的法律代表着公平，代表着正义，代表着世界人民的利益。那么，美国代表正义么?</p><p>美国代表正义么?</p><p>沙特是美国的好朋友，18 年，沙特记者卡舒吉在沙特领事馆被<a href="https://www.bbc.com/zhongwen/simp/world-45910579" target="_blank" rel="noopener">肢解</a>。我不知道哪个国家的领事馆能够做到一个活生生的人被肢解，自己领事馆的人还不知情。事情很明显，卡舒吉是被沙特政府暗杀的。</p><img src="/images/Trump-evil-stupid-both-rtr-img.jpg" class=""><p>结果<a href="https://cn.nytimes.com/usa/20181121/trump-saudi-khashoggi/" target="_blank" rel="noopener">特朗普说</a>：</p><ul><li>“很有可能王储事先知道这起悲剧事件——也许他知道，也许他不知道！”</li><li>“我们可能永远也无法知道关于贾迈勒·卡舒吉被谋杀的全部事实，”</li><li>“无论如何，我们的关系是和沙特阿拉伯王国的关系。”</li></ul><p>你看，在国家利益面前，特朗普能够接受一个无辜的人被通过肢解的方式夺去性命，也愿意和这种暴权政府继续维持友好关系。</p><p>美国代表正义么?</p><p>2020 年一月，美国通过无人机<a href="https://www.bbc.com/zhongwen/simp/world-51032521" target="_blank" rel="noopener">暗杀</a>了伊朗将军，政权二号人物苏莱曼尼。一个世界大国的政权高官，被通过暗杀的方式夺去生命，这是一种正义的行为？</p><img src="/images/soleimani.jpg" class=""><p>试想一下，我们国家如果对某一个国家元首不满，能不能也直接派个特务把对方元首暗杀了？</p><p>事后从美国的反应来看，这似乎是他意料之外的事情，但是美国也没有道歉，只是希望对方如果要报复，希望报复是对等的。</p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>我们中国讲一句大国担当，美国作为世界上毫无争议的最强大的经济体，当前是毫无大国担当的，一切都只是为了自己的利益。</p><p>各个国家维护自己的利益，其实也无可厚非，但是也得建立在最基本的公平，公正的基础上吧。但美国为了自己的利益，可以做任何事情。这些事情：</p><ul><li>有一些事情是有违公平的，例如针对华为和阿尔斯通的打压；</li><li>有一些事情是有违道义的，比如在暗杀卡舒吉事情上，维护沙特的利益；</li><li>有一些事情是恐怖组织才做的，比如暗杀苏莱曼尼。</li></ul><p>我希望本文能够让那些鼓吹美国自由民主的朋友们认清现实，国际间的竞争很残酷，中国要和平崛起得面对美国的各种打压。</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ul><li><a href="https://www.bbc.com/zhongwen/simp/world-45941844" target="_blank" rel="noopener">https://www.bbc.com/zhongwen/simp/world-45941844</a></li><li><a href="https://zhuanlan.zhihu.com/p/47449091" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/47449091</a></li><li><a href="https://www.bloomberg.com/news/articles/2020-03-06/trump-blocks-chinese-deal-for-hotel-management-software-company" target="_blank" rel="noopener">https://www.bloomberg.com/news/articles/2020-03-06/trump-blocks-chinese-deal-for-hotel-management-software-company</a></li><li><a href="https://www.shijigroup.com/china-press-news/125" target="_blank" rel="noopener">https://www.shijigroup.com/china-press-news/125</a></li><li><a href="https://cn.nytimes.com/usa/20181121/trump-saudi-khashoggi/" target="_blank" rel="noopener">https://cn.nytimes.com/usa/20181121/trump-saudi-khashoggi/</a></li><li><a href="http://www.xinhuanet.com/world/2019-05/27/c_1124547080.htm" target="_blank" rel="noopener">http://www.xinhuanet.com/world/2019-05/27/c_1124547080.htm</a></li><li><a href="http://pdf.dfcfw.com/pdf/H3_AP201801301083886634_1.pdf" target="_blank" rel="noopener">http://pdf.dfcfw.com/pdf/H3_AP201801301083886634_1.pdf</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;新闻&quot;&gt;&lt;a href=&quot;#新闻&quot; class=&quot;headerlink&quot; title=&quot;新闻&quot;&gt;&lt;/a&gt;新闻&lt;/h2&gt;&lt;p&gt;先说我前天看到的新闻（&lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-06
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写给 iOS 的机器学习入门</title>
+    <link href="https://blog.devtang.com/2020/02/26/machine-learning-for-ios/"/>
+    <id>https://blog.devtang.com/2020/02/26/machine-learning-for-ios/</id>
+    <published>2020-02-26T13:52:24.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/ml-book-cover.png" class=""><p>最近买了 <a href="https://www.raywenderlich.com/" target="_blank" rel="noopener">Ray Wenderlish</a> 上面的 <a href="https://store.raywenderlich.com/products/machine-learning-by-tutorials" target="_blank" rel="noopener">《Machine Learning by Tutorials》</a>一书看了看，对机器学习有了进一步的理解。</p><p>这本书前面几章特别适合 iOS 背景的同学，因为相关的实践都是直接在 Xcode 环境下做的。</p><p>以下是我的一些小结。</p><h2 id="机器学习基础概念"><a href="#机器学习基础概念" class="headerlink" title="机器学习基础概念"></a>机器学习基础概念</h2><p>首先我们需要理解一些非常基础的概念。</p><h3 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h3><p>虽然严格意义上的机器学习定义范围很广，但是这本书讲的其实是指深度学习（Deep Learning），这也是当前最火的机器学习研究领域。</p><p>深度学习其实是一项相对有些年头的研究成果了，它之所以最近 5 年才这么火，主要是因为人们发现了可以用 GPU 来加速其计算过程。原本需要算几年才能训练出来的模型，现在在 GPU 的帮助下可以在几天训练出来了。</p><p>这样，一项原本理论上完美但是实际上困难的技术终于落地了。Google 旗下的 DeepMind 研究出来的围棋 AI <a href="https://deepmind.com/blog/article/alphago-zero-starting-scratch" target="_blank" rel="noopener">Alpha Zero</a>，就是在 40 天的训练后，超过了世界围棋冠军以及它的前辈们。</p><p><img src="https://lh3.googleusercontent.com/atTt6Okt1LQIjIAF225ptfDdCtndp-OD4ZNPAmxTEAESk-sRvQg0cHbULyxh4wci7QH_TD3jIMGWMraOZHPW-C9UU6ZUx9jN4yms3g=w2048-rw-v1" alt=""></p><p>深度学习之所以名字中带深度，是因为它的模型是分层的，这一层一层的模型与人类的大脑皮层类似，我们把它叫做神经网络（Neural Network）。</p><h3 id="模型"><a href="#模型" class="headerlink" title="模型"></a>模型</h3><p>模型代表的是训练（Training）出来的神经网络，训练的方式有三种：</p><ul><li>监督学习（supervised learning）。在训练的时候告诉模型什么是对的，什么是错的，让模型学习。</li><li>非监督学习（unsupervised learning）。主要是通过 k-means 之类的算法，让模型自己从数据中找规律。</li><li>强化学习（reinforcement learning）。设立一些简单的规则，让模型通过正向奖励和负向惩罚来训练。</li></ul><p>模型在训练的时候会抽取特征（feature），比如一个预测房价的模型，那么它的 feature 可能有房间数，面积，楼层，位置，朝向等。</p><p>大多数情况下，为了让模型训练出好的能力，都需要进行大量的训练。而很多大量的训练数据，都是通用人工标注来完成的。小猿搜题的拍照搜题算法就是基于深度学习的，为此我们长年维持着一个上百人的标注团队，用于提升模型的准确度。所以我们的同事戏称：</p><p><strong>人工智能是有多少人工就有多少智能。</strong></p><p>这也是我去年为什么重仓 Tesla 的原因，在相关法律法规还不完善的情况下，特斯拉的自动驾驶算法已经靠它全球几十万辆车收集了海量的数据。有一些甚至是自动驾驶算法的事故数据，而这些海量数据是自动驾驶技术的核心优势。除了 Google，没有第二家有这么海量的数据，特斯拉的自动驾驶算法就值 300 亿美金。</p><h2 id="神经网络的工作原理"><a href="#神经网络的工作原理" class="headerlink" title="神经网络的工作原理"></a>神经网络的工作原理</h2><p>这本书用了一种很简单的方式解释了神经网络的工作原理。</p><p>我们首先定义任务：设计一个神经网络，从一堆图片中区分出猫和狗的图片。</p><p>其实任何数据，我们都可以把它看作一段输入的序列。比如一张图片，我们可以看成图片的点的序列，每个点我们又可以看成一个 RGB 值的序列，这样我们就可以把一张图片，变成一个序列。</p><p>假设所有图片长宽是 NxN 的，那么它就包含 NxN 个点，每个点有 R,G,B 三个值，这样就是 <code>3xNxN</code> 个值。我们知道，在二维的平面，所有点都是 <code>[x,y]</code> 两个值的。在三维空间，所有点都是 <code>[x,y,z]</code> 三个值的。所以我们当前任务的图片，如果长宽都一样，那么就都是 <code>3xNxN</code> 维空间上的一个点。</p><p>这一堆图片，其实就是 <code>3xNxN</code> 维空间上的一堆点。</p><p>而神经网络的任务，就是在这个空间中，找出一种方式，把这些点分成两堆，其中一堆全是猫，另一堆全是狗。</p><p>为了更形象地举例，书中拿 3 维空间举例，神经网络的任务就是找出一个平面，把下面的点分成两堆。</p><img src="/images/ml-sample-1.png" class=""><p>但是，很多时候，这些点明显不是像上面这样排列的，它们很可能混淆在一起，像下面这样：</p><img src="/images/ml-sample-2.png" class=""><p>所以，你需要进行变换，把这些点通过一些变换，映射到另一些点上面，我们希望通过这些变换，最终可以找到一个平面，把这些点很方便地分割开。拿图中的例子来说，如果你可以变换成下面这样，我想你用肉眼就可以找到分割方式了。</p><img src="/images/ml-sample-3.png" class=""><p>神经网络的厉害之处在于，它会自动进行这种变换尝试，最终找到一种尽可能好的变换，这也就是训练模型的过程。而最常见的变换方式就是卷积（convolutions）。</p><p>卷积神经网络（CNN）也是现在最常见的处理图像类的深度学习模型。卷积运算被大量用在图像显示处理中，这也是为什么深度学习更适合使用 GPU 而不是 CPU 的原因。</p><h2 id="CNN-和-RNN"><a href="#CNN-和-RNN" class="headerlink" title="CNN 和 RNN"></a>CNN 和 RNN</h2><p>卷积神经网络（CNN） 和 （循环神经网络）RNN 是当前最常见的两种神经网络。</p><p>CNN 通过卷积来完成神经网络的变换，通常情况下适用于图像一类的场景，比如人脸识别。CNN 通过卷积，将图像的特征一步步地提取，从最初的像素点，慢慢变成边，再慢慢提取出小的部件，最终能够识别出复杂的东西。比如下图就是 CNN 人脸识别的过程（来自<a href="https://zhuanlan.zhihu.com/p/51241366" target="_blank" rel="noopener">参考资料2</a>）：</p><img src="/images/ml-sample-4.png" class=""><p>CNN 通常要求输入数据是相同规格的，刚刚我们提到那个识别小猫小狗的问题，其实用 CNN 的话，首先需要做的就是把图片缩放成一样的尺寸。但是有些时候，我们并不能很方便地做这种事情。</p><p>例如：我们要用 CNN 做一个语言翻译模型。我们不可能让所有的语言输入的时候长度都是一样的。这个时候，RNN 的优势就体现了。RNN 更注意关注输入数据的连续性，并且每次运算的时候，可以反复地把当前层的输出又当作输入进行运算。</p><p>拿数据结构来说，CNN 应该是一个有向无环图，而 RNN 是一个有向有环图。</p><h2 id="如何理解卷积"><a href="#如何理解卷积" class="headerlink" title="如何理解卷积"></a>如何理解卷积</h2><p>卷积如果上数学描述来解释，容易让人晕。我打一个比方吧：</p><p>卷积就是拿一个矩阵，我们可以把它想像成一个盖子，这个盖子在目标图形上不停地移动。每次移动的时候，这个矩阵就和目标图形上被“盖住”的区域做一个操作，这个操作形成一个新的数字，填到新的图形中。</p><p>具体的操作方式是：将这个矩阵和被盖住的矩阵对应位置做乘积，然后求和。下面是一个示意图（来自<a href="http://imgtec.eetrend.com/d6-imgtec/blog/2017-05/9715.html" target="_blank" rel="noopener">参考资料1</a>）：</p><img src="/images/ml-sample-5.jpg" class=""><p>卷积的公式选择得好，就有助于提取图像中关键的信息，下面是一个示意，可以看到花瓣通过卷积，在目标图形上得到明显地体现，而其它信息被抹去了。（来自<a href="http://imgtec.eetrend.com/d6-imgtec/blog/2017-05/9715.html" target="_blank" rel="noopener">参考资料1</a>）。</p><img src="/images/ml-sample-6.jpg" class=""><h2 id="使用-Create-ML-来训练数据"><a href="#使用-Create-ML-来训练数据" class="headerlink" title="使用 Create ML 来训练数据"></a>使用 Create ML 来训练数据</h2><p>我们可以使用 Xcode 自带的 Create ML 来训练一些基础的深度学习模型，然后应用到我们的 App 上。苹果系统自带的 Core ML 和 Metal 可以很方便地在底层提供这些支持。下面是一个例子。</p><p>从 Xcode 的菜单 <code>Xcode</code> -&gt; <code>Open Developer Tool</code> -&gt; <code>Create ML</code> 可以打开 Create ML 工具。</p><img src="/images/create-ml-1.png" class=""><p>然后，新建一个图像分类的模型，然后选择 Input，将需要训练的图片导入进入。每一种类型的图片需要放在同一个目录。导入之后可以看到 Create ML 识别出图像的种类数（class）。点击工具栏上的训练按钮即可开始训练。</p><img src="/images/create-ml-2.png" class=""><p>训练结束后，可以看到 准确率（precision）和 召回率（recall）。</p><img src="/images/create-ml-3.png" class=""><p>直接拖动 output 中的那个文件到 Finder 中，即可将训练好的模型导出。</p><p>在代码中应用训练好的模型也非常方便，将模型文件拖入到 Xcode 工程中，就可以看到这个模型对应的类名和方法定义了。可以直接在 Xcode 中初始化这个模型，然后调用其 <code>prediction</code> 方法进行图像的分类。</p><img src="/images/create-ml-4.png" class=""><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><ul><li>深度学习其实是利用神经网络的变换，来对训练数据进行学习的技术。</li><li>大部分的深度学习案例都需要大量的标注数据。</li><li>卷积神经网络（CNN）和（循环神经网络）RNN 是当前最常见的两种神经网络。</li><li>CNN 常用于图像处理，RNN 常用于语音识别和翻译。</li><li>Xcode 的 Create ML 可以进行一些简单的模型训练工作。</li></ul><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ul><li><a href="http://imgtec.eetrend.com/d6-imgtec/blog/2017-05/9715.html" target="_blank" rel="noopener">秒懂各种深度学习卷积神经网络操作</a></li><li><a href="https://zhuanlan.zhihu.com/p/51241366" target="_blank" rel="noopener">DNN、RNN、CNN.一文带你读懂这些绕晕人的名词</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/ml-book-cover.png&quot; class=&quot;&quot;&gt;
+
+&lt;p&gt;最近买了 &lt;a href=&quot;https://www.raywenderlich.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ray Wenderli
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>App 换肤功能的思考</title>
+    <link href="https://blog.devtang.com/2020/02/26/talk-about-theme-changing-feature/"/>
+    <id>https://blog.devtang.com/2020/02/26/talk-about-theme-changing-feature/</id>
+    <published>2020-02-26T02:17:37.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>我们发现市面上的 App，有一些做了换肤功能，比如网易云音乐，而大部分 App 没有做换肤功能。那么：</p><p><strong>什么样的 App 适合做换肤功能，什么样的 App 不适合做换肤功能？</strong></p><p>最近我找一些同行交流了一下，做了一些小结，分享给大家。</p><h2 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h2><p>我们在讨论的时候，常常把为运营活动提供的换肤和为用户提供的换肤混为一谈，因为毕竟它们最终都是达成了用户界面外观的更换。</p><p>在讨论的时候，我发现大家对于为运营活动提供的换肤功能都持正面态度，因为：</p><ul><li>这种功能并不增加 App 可见的换肤入口，运营同事是通过企业后台的 CRM 系统来配置相应活动的皮肤。</li><li>运营活动需要新鲜的活动界面来刺激用户感兴趣，而一个视觉上的界面变化就是最直接的刺激。</li><li>运营活动的换肤功能通常涉及的界面相对小，不会影响整个 App 的视觉体验。</li></ul><p>所以，我们下面就只讨论为 C 端用户提供的，可供用户主动挑选和设置的换肤功能。</p><h2 id="用户需求"><a href="#用户需求" class="headerlink" title="用户需求"></a>用户需求</h2><p>我们可以先从用户需求角度来看换肤功能解决的问题。</p><p>用户换肤的需求我觉得来自两个角度：</p><ul><li>社交角度</li><li>情感和审美角度</li></ul><p>其实还有一个特殊的场景角度：夜间模式。这个比较特殊，我们放到最后讨论。</p><h3 id="社交角度"><a href="#社交角度" class="headerlink" title="社交角度"></a>社交角度</h3><p>在社交角度，换肤代表着 TA 的个性化表达，用户希望界面能够传达出一种自己的个性或审美。这种需求多涉及个人展示的地方，比如社交头像、个人主页、个人博客等。</p><p>本质上，这是一种偏社交属性的需求，用户是希望让其它人看到才用换肤。</p><p>案例包括：微信的聊天背景，QQ 空间，bilibili 的个性挂件，王者荣耀的英雄皮肤等。</p><h3 id="情感和审美角度"><a href="#情感和审美角度" class="headerlink" title="情感和审美角度"></a>情感和审美角度</h3><p>情感和审美角度是内在的，即有一些别人看不见的界面，用户基于内在的情感表达或者对于审美有新鲜感的需求来使用换肤功能。比如：</p><ul><li>用户喜欢某个人，就可能拿这个人的照片当自己某些界面的背景。</li><li>用户觉得 Mac 桌面太单调了，就会时不时换一张。</li></ul><p>当然，也有时候是原来的界面用户不喜欢，希望自己定制。</p><p>案例包括：网易云音乐、QQ 浏览器、Chrome、手机锁屏界面、系统界面等。</p><h2 id="成本角度"><a href="#成本角度" class="headerlink" title="成本角度"></a>成本角度</h2><p>换肤的成本可以从以下几个角度评估：</p><ul><li><p>研发实施成本。换肤看功能的强弱程度，可能涉及比较多的界面，这种情况下，在未来调整功能的时候，不同皮肤下功能是否正常或许都是需要测试来覆盖的。研发也需要调整架构，以支持换肤。整体这方面的难度算中低吧，基本上都能搞定。兼容性需要未来持续投入时间成本来测试，但也算是一个低程度的成本。</p></li><li><p>功能复杂性成本。产品的功能都需要占据用户界面，多了一个功能，对于那些不喜欢用的用户来说，就是成本。因为占据了他们的注意力精力，特别是他们看到了这个功能之后不用。这也是为什么一个不好的功能不是零分，是负分。就这个功能来说，可以通过上线之后用户使用率/留存率来评估，如果用户使用率低于 1%，留存率低于 20% 那么可能需要思考这个功能是否还有必要为了少数人保留。</p></li><li><p>产品焦点缺失。换肤可能会影响用户对于产品功能的焦点或核心功能的体验。一个朋友提到微博当年不做皮肤，也是觉得微博产品的核心是内容，不希望界面抢内容的焦点。</p></li></ul><p>个人觉得研发成本和功能复杂性都可以几乎忽视，最影响的还是产品焦点，一个产品的核心功能或体验如果被界面干扰，反倒是不好的。我们看到苹果的界面风格越来越简洁，越来越凸显内容，也是为了聚焦核心体验。</p><h2 id="夜间模式"><a href="#夜间模式" class="headerlink" title="夜间模式"></a>夜间模式</h2><p>夜间模式需要单独拿出来说，因为它还是比较特别。本质上他和前面的都不一样，满足的是用户在特定场景下使用 App 的体验问题。比如猿题库的夜间模式，是为了保证孩子在被窝里面刷题的体验。</p><p>做不做这个功能，要看用户在这个场景下的使用频率。常见的新闻客户端、阅读软件都有夜间模式，比如网易新闻、多看阅读。</p><p>夜间模式对整体的界面设计改动比较大，开发成本会稍大一些。但是如果需求成立，那么就不存在产品焦点缺失这些担心。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>小结一下：</p><ul><li>运营角度的换肤是成立的，并且是好的。可以为特定节点的活动增加整体的视觉效果，提升运营效率。</li><li>用户定制的换肤，有一类偏社交的，这一类的换肤能让其他人看到，如微信的聊天背景，bilibili的个性挂件。</li><li>用户定制的换肤，有一类是满足用户情感和审美需求的，比如网易云音乐。</li><li>换肤的成本包括：产品研发（偏小），功能复杂性（偏中），产品焦点影响（偏大）。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;p&gt;我们发现市面上的 App，有一些做了换肤功能，比如网易云音乐，而大部分 App 没有做换肤功能。那么：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;什么样
+      
+    
+    </summary>
+    
+    
+    
+      <category term="PM" scheme="https://blog.devtang.com/tags/PM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用 Travis 来自动更新博客</title>
+    <link href="https://blog.devtang.com/2020/02/08/update-blog-with-travis/"/>
+    <id>https://blog.devtang.com/2020/02/08/update-blog-with-travis/</id>
+    <published>2020-02-08T17:43:45.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>Travis 是一个自动化集成测试工具，原本的用处主要是在提交代码之后进行自动化的编译和测试。但是其实你不光可以拿它来编译代码，还可以做任何你需要执行代码做的事情，就比如更新博客文章。</p><p>如果你的博客像我一样使用 Hexo / Jekyll / Octopress 等工具生成静态文件，并且发布在 GitHub Pages 上，那么你可以使用 Travis 来自动帮助你发布博客文章。</p><p>整个发布的流程如下图所示（图片来自<a href="https://maologue.com/Auto-deploy-Hexo-with-Travis-CI/" target="_blank" rel="noopener">这里</a>），你只需要将本地的文章 PUSH 到 GitHub，GitHub 的 Web Hook 会通知到 Travis，之后 Travis 就会自动地从你的项目中获得博客文件，然后执行 Build 操作生成静态文件，然后再 PUSH 回你的博客仓库。</p><img src="/images/travis-process.png" class=""><p>当然，为了做到这些自动化，你需要一点时间进行 Travis 和 项目的设置，以下是详细的设置说明。</p><h2 id="授权-Travis"><a href="#授权-Travis" class="headerlink" title="授权 Travis"></a>授权 Travis</h2><ul><li><p>去 <a href="https://github.com/marketplace/travis-ci" target="_blank" rel="noopener">Travis</a> 授权访问你的 Github。如果你的博客是开源的，那么你可以免费使用 Travis。</p></li><li><p>去 <a href="https://github.com/settings/installations" target="_blank" rel="noopener">Github 的应用管理界面</a> 设置 Travis 的访问权限。</p></li><li><p>去 <a href="https://github.com/settings/tokens" target="_blank" rel="noopener">Github 的 Token 管理界面</a>，点击 <code>Generate new token</code> 按钮，生成一个 <code>OAuth Token</code>，权限可以都勾上。但是要注意，不要把这个 Token 的内容直接放到博客文件中。</p></li><li><p>去 <a href="https://travis-ci.com/" target="_blank" rel="noopener">Travis</a> 页面，进入到你博客项目的设置里，在 <code>Environment Variables</code> 下，增加一个名为 <code>GITHUB_TOKEN</code> 的环境变量，值为你刚刚生成的 <code>OAuth Token</code> 值。为了方便调试，建议你勾选上 <code>DISPLAY VALUE IN BUILD LOG</code>。如下图所示：</p><img src="/images/travis-1.png" class=""></li></ul><h2 id="修改项目"><a href="#修改项目" class="headerlink" title="修改项目"></a>修改项目</h2><h3 id="修改依赖为-submodule"><a href="#修改依赖为-submodule" class="headerlink" title="修改依赖为 submodule"></a>修改依赖为 submodule</h3><p>将你依赖的主题，以 submodule 的方式添加到项目中，这样 Travis 会在 clone 你的主项目的时候，自动把 submodule 也 clone 下来。注意，因为 Travis 并不拥有你的 SSH 私钥，所以你需要用 https 的方式来下载代码。代码如下：</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git submodule add -f https://github.com/tangqiaoboy/jacman.git</span><br><span class="line">themes/jacman</span><br></pre></td></tr></table></figure><p>请将上面的代码稍作修改，把主题换成你使用的主题项目地址。</p><h3 id="创建-travis-yml-文件"><a href="#创建-travis-yml-文件" class="headerlink" title="创建 .travis.yml 文件"></a>创建 .travis.yml 文件</h3><p>接着，在项目中创建一个 <code>.travis.yml</code> 的文件，内容如下：</p><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">sudo:</span> <span class="literal">false</span></span><br><span class="line"><span class="attr">language:</span> <span class="string">node_js</span></span><br><span class="line"><span class="attr">node_js:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="number">10</span> <span class="comment"># use nodejs v10 LTS</span></span><br><span class="line"><span class="attr">cache:</span> <span class="string">npm</span></span><br><span class="line"><span class="attr">branches:</span></span><br><span class="line">  <span class="attr">only:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">source</span> <span class="comment"># build source branch only</span></span><br><span class="line"><span class="attr">git:</span></span><br><span class="line">  <span class="attr">depth:</span> <span class="number">1</span></span><br><span class="line">  <span class="attr">submodules:</span> <span class="literal">true</span></span><br><span class="line"><span class="attr">env:</span></span><br><span class="line">  <span class="attr">global:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="attr">GITHUB_TOKEN:</span> <span class="string">"$&#123;GITHUB_TOKEN&#125;"</span></span><br><span class="line"><span class="attr">before_install:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">npm</span> <span class="string">install</span> <span class="string">-g</span> <span class="string">hexo-cli</span></span><br><span class="line"><span class="attr">install:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">npm</span> <span class="string">install</span></span><br><span class="line"><span class="attr">script:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="comment"># echo "$GITHUB_TOKEN" # 调试用</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">hexo</span> <span class="string">generate</span></span><br><span class="line"><span class="attr">after_success:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">git</span> <span class="string">config</span> <span class="string">--global</span> <span class="string">user.name</span> <span class="string">'Tang Qiao'</span> <span class="comment"># 结合自己的情况修改</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">git</span> <span class="string">config</span> <span class="string">--global</span> <span class="string">user.email</span> <span class="string">'tangqiaoboy@gmail.com'</span>  <span class="comment"># 结合自己的情况修改</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">sed</span> <span class="string">-in-place</span> <span class="string">-e</span> <span class="string">"s/git@/https:\/\/$&#123;GITHUB_TOKEN&#125;@/"</span> <span class="string">_config.yml</span>  <span class="comment"># 结合自己的情况修改</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">sed</span> <span class="string">-in-place</span> <span class="string">-e</span> <span class="string">"s/github.com:tangqiaoboy/github.com\/tangqiaoboy/"</span> <span class="string">_config.yml</span>  <span class="comment"># 结合自己的情况修改</span></span><br><span class="line">  <span class="bullet">-</span> <span class="comment"># cat _config.yml # 调试用</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">hexo</span> <span class="string">deploy</span></span><br></pre></td></tr></table></figure><p>上面的文件针对的是我个人的博客，请你对上面的文件进行适当修改，将博客地址替换成你自己的。</p><h3 id="修改-config-yml"><a href="#修改-config-yml" class="headerlink" title="修改 _config.yml"></a>修改 _config.yml</h3><p>在 <code>_config.yml</code> 中增加 deploy 相关设置：</p><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">message:</span> <span class="string">"Site updated: <span class="template-variable">&#123;&#123; now('YYYY-MM-DD HH:mm') &#125;&#125;</span>"</span></span><br><span class="line">  <span class="attr">repo:</span> </span><br><span class="line">    <span class="attr">github:</span> <span class="string">git@github.com:tangqiaoboy/tangqiaoboy.github.com.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure><h3 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h3><p>完成了以上设置之后，每次你有 push 文件源文的时候，Travis 就会自动帮你 build 代码，生成博客文件，并且发布到 GitHub Pages 上。</p><p>以上这些修改主要起的作用是：通过在 <code>.travis.yml</code> 中调用 sed，修改 <code>_config.yml</code> 文件中的 repo 地址，将自己之前申请的 <code>GITHUB_TOKEN</code> 给替换上去，最后用它完成鉴权，把文章上传到你自己的仓库中。</p><p>如果你的博客是基于 Jekyll 的，那么可以在 <a href="https://jekyllrb.com/docs/continuous-integration/travis-ci/" target="_blank" rel="noopener">这里</a> 获得官方的发布教程。</p><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><ul><li><a href="https://maologue.com/Auto-deploy-Hexo-with-Travis-CI/" target="_blank" rel="noopener">https://maologue.com/Auto-deploy-Hexo-with-Travis-CI/</a></li><li><a href="https://hexo.io/docs/github-pages" target="_blank" rel="noopener">https://hexo.io/docs/github-pages</a></li><li><a href="https://gist.github.com/rokibhasansagar/b92dc248a6e88e0d9403e45499002165" target="_blank" rel="noopener">https://gist.github.com/rokibhasansagar/b92dc248a6e88e0d9403e45499002165</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Travis 是一个自动化集成测试工具，原本的用处主要是在提交代码之后进行自动化的编译和测试。但是其实你不光可以拿它来编译代码，还可以做任何你需要执行代码做的事情，就比如更新博客文章。&lt;/p&gt;
+&lt;p&gt;如果你的博客像我一样使用 Hexo / Jekyll / Octopres
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>美股期权学习笔记（一）</title>
+    <link href="https://blog.devtang.com/2020/02/08/option-learning-note/"/>
+    <id>https://blog.devtang.com/2020/02/08/option-learning-note/</id>
+    <published>2020-02-08T13:51:06.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近学习了一下美股的股票期权交易，以下是一些笔记分享给大家。</p><h2 id="期权是什么"><a href="#期权是什么" class="headerlink" title="期权是什么"></a>期权是什么</h2><p>期权（Option）是一种权力，持有期权的人可以在未来的某个时间，以期权约定的价格，来买入或者卖出相应的股票。</p><p>这种权力在美股市场上是可以交易的，交易该权利的价格被称作权利金（premium）。</p><h2 id="期权的分类"><a href="#期权的分类" class="headerlink" title="期权的分类"></a>期权的分类</h2><p>美股期权分成看涨期权（CALL）和看跌期权（PUT)。</p><p>相应的，你可以直接买入（或卖空）这两种期权，所以一共有 4 种操作：</p><ul><li>买入看涨期权（Long Call）</li><li>卖空看涨期权（Sell Call）</li><li>买入看跌期权（Long Put）</li><li>卖空看跌期权（Sell Put）</li></ul><p>我说卖空而不是卖出，是指你不必手中真的有相应期权再卖，你可以直接卖出，就像做空股票一样。</p><p>和做空股票不一样的是，期权因为有过期时间（expiration date），所以到了那个时候，如果你的做空没有平仓，你就需要执行相应的期权义务：</p><ul><li>如果你是卖空看涨期权（Sell Call），那你需要按指定价格卖出相应的股票。如果你手里没有，你需要自己先买入，再按指定价格卖给别人。</li><li>如果你是卖空看跌期权（Sell Put），那你需要按指定价格买入相应的股票。你需要帐户里留足相应的买入保证金，否则可能被强行平仓。</li></ul><p>期权有几个关键的概念：</p><ul><li>过期时间（expiration date），到了时间就过期。有期权的一方可以在到期时选择执行期权或放弃执行。</li><li>行权价（strike price），买卖双方按行权价执行。</li><li>权利金（premium），也就是期权的现金价值。期权的现金价值会随着时间以及股价波动。</li></ul><h2 id="期权按行权价分类"><a href="#期权按行权价分类" class="headerlink" title="期权按行权价分类"></a>期权按行权价分类</h2><p>我们把行权价（strike price）与当前股票的价格（stock price）相比较的，会出现两种情况，分别是比当前股票价高（Covered） 和 比当前股票价格低（Naked）。所以，不同行权价的期权又可以分为 8 种：</p><ul><li>Long Covered Call。<br>买入看涨期权，并且 strike price &gt; stock price。</li><li>Long Naked Call。<br>买入看涨期权，并且 strike price &lt; stock price。</li><li>Sell Covered Call。<br>卖出看涨期权，并且 strike price &gt; stock price。</li><li>Sell Naked Call。<br>卖出看涨期权，并且 strike price &lt; stock price。</li><li>Long Covered Put。<br>买入看跌期权，并且 strike price &gt; stock price。</li><li>Long Naked Put。<br>买入看跌期权，并且 strike price &lt; stock price。</li><li>Sell Covered Put。<br>卖出看跌期权，并且 strike price &gt; stock price。</li><li>Sell Naked Put。<br>卖出看跌期权，并且 strike price &lt; stock price。</li></ul><p>之所以这么分类，是因为  strike price 的价格是高（Covered）还是低（Naked）背后所代表的意义差别非常大。</p><h3 id="Long-Naked-Call"><a href="#Long-Naked-Call" class="headerlink" title="Long Naked Call"></a>Long Naked Call</h3><p>下面我们拿 Long Naked Call （买入看涨期权，并且 strike price &lt; stock price） 来举例，我认为 Long Naked Call 其实相当于加了一个额外的杠杆来买股票。</p><p>比如，有个股票当价价格是 100 元，你买入了一个行权价为 50 元的看涨期权，因为 strike price = 50，而 stock price = 100，所以 strike price &lt; stock price，这就是一个 Long Naked Call。因为这个期权的行权价比股票低了 50 元，所以这个期权的权利金（premium）不会便宜，肯定是 50 元以上。因为如果权利金低于 50，那么你的行权成本（ strike price + premium &lt; stock price），这样的亏本生意，不会有人愿意和你对手交易。要有人愿意和你对手交易，必定权利金高于 50 元。</p><p>我们假设权利金是 60 元。这样，你买入这个期权的成本是 60 元，在这种情况下：</p><ul><li>如果这个股票涨 50% 到 150 元，则你的收益就是 40元，收益率为 40/60 = +67%</li><li>如果这个股票跌 50% 到 50 元，则你的收益就是 -60 元，收益率为 -60/60 = -100%</li></ul><p>而如果你的钱不是买期权，而是买股票的话：</p><ul><li>如果这个股票涨 50% 到 150 元，则你的收益就是 50元，收益率为 50/100 = +50%</li><li>如果这个股票跌 50% 到 50 元，则你的收益就是 -50 元，收益率为 -50/100 = -50%</li></ul><p>你看，相比于直接买股票，你的收益率几乎相当于乘了一个两倍的杠杆。但是这又不完全是一个两倍杠杆。因为你的权利金带有时间价值（time value），所以你额外付出了一部分成本在这里面。</p><h3 id="Long-Covered-Call"><a href="#Long-Covered-Call" class="headerlink" title="Long Covered Call"></a>Long Covered Call</h3><p>Long Covered Call 背后的意义又很不一样。</p><p>比如一个股票价格 100 元，你买入一个 strike price = 110 的期权，这个时候因为 strike price &gt; stock price，所以这就是一个 Long Covered Call。这个期权的权利金（premium）不会像刚刚的例子那样那么高，我们假设它的价格是 10 元。</p><p>好，假设你以 10 元的价格，买入了这个期权：</p><ul><li>如果这个股票涨 50% 到 150 元，因为  strike price + premium 会大于 stock price，而  strike price  是固定的 110 元，所以 premium 至少会上涨到 40 元以上，收益率为 (150-110-10)/10 = +300%</li><li>如果这个股票涨 20% 到 120 元，则你的收益是 （120-110-10)/10 = 0%</li><li>如果这个股票涨 10% 到 110 元，则你的收益是 （110-110-10)/10 = -100%</li></ul><p>事实上，因为你的行权价是 110，只要股票没有上涨超过 10%，你的收益率都是 -100%。</p><p>你看，Long Covered Call 和 Long Naked Call 的杠杆率差别非常大。</p><h2 id="期权的对冲属性"><a href="#期权的对冲属性" class="headerlink" title="期权的对冲属性"></a>期权的对冲属性</h2><p>期权更多时候，是给专业的机构投资者做为对冲工具，来构建一个安全的投资组合的。</p><p>比如一个做空机构，为了防止做空的股票持续上涨，控制风险，那么它就可以 Long Covered Call。这样如果股票持续上涨，那  Long Covered Call 的收益就可以对冲掉做空的损失。</p><p>如果你持有一个公司的股票，最近公司出了一些短期风险，你觉得短期有下跌风险，你就可以 Long Naked Put，这样股票下跌了，期权收益可以对冲掉股票下降的损失。</p><p>你看，买 Call 可以为做空者锁定损失，买 Put 可以为持有者锁定收益。所以，你可以把权利金看成一种保险，而我在查词典的时候，权利金 premium 就有保险的意思。</p><h2 id="价值投资者可以用期权做什么"><a href="#价值投资者可以用期权做什么" class="headerlink" title="价值投资者可以用期权做什么"></a>价值投资者可以用期权做什么</h2><p>在我查阅一些资料的时候，我发现很多人都只推荐卖期权，而不是买期权。因为虽然买期权亏损有上限，收益无上限，但是买期权额外付出的因为时间价值而不菲的权利金很难保证收益。当然，这些话应该不是说给投机者说的。</p><p>那我们什么时候可以使用卖期权这种操作呢？</p><p>1、抄底增持的情况。当你想增持某个股票，但希望股价再跌10%的时候买，可以使用 Sell Naked Put，strike price 设置成股价的 90%。未来如果股票上涨，那么这些 Put 全部失效，等于你白收一笔权利金（premium）。如果接着下跌，期权行权，你就可以以目标价完成建仓，同时权利金（premium）可视为折扣价（等于以预期价位的 95 折完成建仓，一样很划算），因此 Sell Naked Put 也成为价值投资者建仓的利器。巴菲特很推崇这个方法。</p><p>2、卖出的情况。当你想股票再涨 10% 的时候就卖出某个股票时，可以使用 Sell Covered Call，strike price 设置成股价的 110% 。如果股票没有涨到目标价，你就白收了一笔权利金（premium）。如果股票价格上涨到了目标价，你就按照目标价完成了股票的卖出，而且还多收了一笔权利金。</p><p>这两种操作都使得买入和卖出股票的收益更加确定了。但是有没有坏处呢？坏处就是遇到股票暴涨或者暴跌的时候，因为 Sell Put 和 Sell Call，我们的收益都会限制在了 strike price 上，无法获得更多收益了。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><ul><li>期权是一种股票的衍生交易形式，分成看涨期权（CALL）和看跌期权（PUT)，可以分别做多或做空。</li><li>期权虽然被一部分人当作加杠杆的投机工具，但它更多的用处是为机构提供风险对冲。</li><li>对于价值投资者，可以利用 Sell Naked Put 来增持股票，用 Sell Covered Call 来卖出股票。</li></ul><p>本系列文章汇总：</p><ul><li><a href="/2020/02/08/option-learning-note/">美股期权学习笔记（一）</a></li><li><a href="/2020/03/15/option-learning-notes-1/">美股期权学习笔记（二）</a></li><li><a href="/2020/03/21/option-learning-notes-3/">美股期权学习笔记（三）</a></li><li><a href="/2020/03/22/option-learning-notes-3/">美股期权学习笔记（四）</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近学习了一下美股的股票期权交易，以下是一些笔记分享给大家。&lt;/p&gt;
+&lt;h2 id=&quot;期权是什么&quot;&gt;&lt;a href=&quot;#期权是什么&quot; class=&quot;headerlink&quot; title=&quot;期权是什么&quot;&gt;&lt;/a&gt;期权是什么&lt;/h2&gt;&lt;p&gt;期权（Option）是一种权力，持有期权
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>俞军产品方法论</title>
+    <link href="https://blog.devtang.com/2020/02/03/pm-work-from-yujun/"/>
+    <id>https://blog.devtang.com/2020/02/03/pm-work-from-yujun/</id>
+    <published>2020-02-03T14:07:35.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>​今天读完了《俞军产品方法论》，俞军是互联网时代的前辈和开创者，负责过百度和滴滴两个上百亿美金产品的开创性工作。</p><p>他 2001 年加入百度，也为互联网最早的产品经理，主导了百度早期每一个知名产品的产品经理工作。他为了梳理产品经理的方法论，在 2016 年加入滴滴，帮助滴滴搭建完一个产品团队的同时，也梳理了自己对产品经理的理解，最终这些理解成为了这本《俞军产品方法论》。</p><p>以下是我的一些小结。</p><h2 id="一、用户模型和交易模型"><a href="#一、用户模型和交易模型" class="headerlink" title="一、用户模型和交易模型"></a>一、用户模型和交易模型</h2><p>俞军将产品经理最重要的两个里程碑总结成理解「用户模型」和「交易模型」。</p><h3 id="1、用户模型"><a href="#1、用户模型" class="headerlink" title="1、用户模型"></a>1、用户模型</h3><p>用户模型侧重于理解需求。俞军为了说明一个用户的需求具备多样性，于是将需求放在用户模型的首要位置。他举了很多例子，比如一个用户在意物流速度的时候，他会用京东；当他在意性价比的时候，他会用拼多多。所以这个用户即是京东的用户，又是拼多多的用户。又比如同样是微信的用户，一个只用聊天功能的用户，与一个同时用聊天、支付、朋友圈功能的用户，价值是不一样的。</p><p>在需求的纬度下，产品经理的工作就变成了如何满足用户的需求：即创造用户价值。俞军老师希望大家避免追求极致的需求而忘记了成本，于是在用户价值前面加了四个字：「有利可图」，即：创造有利可图的用户价值。</p><p>如何创造有利可图的用户价值呢？俞老师引用了诺贝尔经济学奖获得者萨缪尔森的幸福公式：幸福=效用/欲望。在顺便提到人的欲望是无穷的之后，则引出了他多次对外宣讲的公式：</p><p><code>用户价值=新体验-旧体验-替换成本</code></p><p>俞老师用了这个例子来理解该公式：产品增长期，一个全新用户因为没有体验过别的竞品，他的「旧体验」就是零。这个时候用户价值就比他体验过竞品的时候大，所以获客就容易。</p><p>我认为在实践中，大部分时候该公式的价值是将用户的迁移成本显式地展示出来了。这个时候做任何功能，都需要对用户习惯进行评估。</p><h3 id="2、交易模型"><a href="#2、交易模型" class="headerlink" title="2、交易模型"></a>2、交易模型</h3><p>任何企业最终都是需要利润存活的，而交易模型就是关注用户在产品体验中产生的金钱与价值的交换。所有的成功的互联网产品，背后的交易模型都是非常健康的。产品经理在满足用户需求的同时，也需要关注自己的商业价值能否以合理的方式体现出来，否则长远来看就会陷入麻烦之中，Keep 就是一个例子。</p><p>窃以为，把「用户模型」叫做「需求模型」，把「交易模型」叫做「商业模型」更易于理解一些。</p><h2 id="二、组织文化"><a href="#二、组织文化" class="headerlink" title="二、组织文化"></a>二、组织文化</h2><p>组织文化由什么决定？俞军老师引用了罗宾斯的《组织行为学》一书，书中提到决定组织文化的是三点：</p><ul><li>创始人的人格特征</li><li>高级管理者的真实行为</li><li>日常的制度，文化价值观宣传</li></ul><p>看到这儿，我就明白为什么我们公司没有什么文化价值观输出了，因为我们公司的文化价值观都一直在通过创始人和高级管理者的行为在输出。相比而言，某些公司天天组织学习和强调文化价值观的活动，其效果其实是大打折扣的。</p><h2 id="三、职场菜鸟的战略是什么"><a href="#三、职场菜鸟的战略是什么" class="headerlink" title="三、职场菜鸟的战略是什么"></a>三、职场菜鸟的战略是什么</h2><p>俞军老师在书中介绍了一个能力弱的产品经理应该怎么找好工作。这个回答非常有借鉴意义，大家也可以类似推导出一个能力弱的程序员应该怎么找好工作。</p><p>我之前一直觉得，能力弱的程序员就应该努力学习，就应该转行。看了俞军老师的回答，我感觉自己的思考还是不够深刻。好的战略还是应该好落地实施，「努力学习」虽然大多数时候都是有用的，但是却忽略了对方的学习能力。如果这个人学习能力很差，那么努力学习可能还是没法帮助他获得好工作，反倒会让他怀疑自己，自我否定。而转行这个建议就更离谱了，转行意味着放弃之前的积累，在新的职业环境中又有多大的胜算呢？</p><p>所以，我们来看看俞军老师怎么给一个能力弱的产品经理规划工作的：</p><p> 1、借势。找大公司的新产品，这个新产品是衍生类产品，不用愁流量。<br> 2、借运。找新团队快速增长的早期加入。<br> 3、不可评价。找一两年内很难验证结果的高大上的 PPT 产品。或者找没有对比的产品。<br> 4、倚人。找能力弱的上司。</p><p>你看，一个产品经理即便水平一般，他还是有一些出人头地的机会。虽然很多策略价值观不太对，但是对个体而言，确实比转行可能更具实操性。</p><p>所以，大家觉得 iOS 菜鸟应该怎么找好工作？借势、借运、不可评价、倚人这些招，应该都是可以套用的。</p><h2 id="四、小结"><a href="#四、小结" class="headerlink" title="四、小结"></a>四、小结</h2><p>俞军的这本书，观点特别多，每一个点都值得深挖。不好的地方就是不够系统，有点散，可能因为该书大部分内容来自他平时的语录整理。</p><p>Anyway，这还是一本没有什么口水的书，全书总结多信息量大，句句都透着俞军的思考，推荐大家阅读。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​今天读完了《俞军产品方法论》，俞军是互联网时代的前辈和开创者，负责过百度和滴滴两个上百亿美金产品的开创性工作。&lt;/p&gt;
+&lt;p&gt;他 2001 年加入百度，也为互联网最早的产品经理，主导了百度早期每一个知名产品的产品经理工作。他为了梳理产品经理的方法论，在 2016 年加入滴
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关注估值和品质 - 读《投资中最简单的事》</title>
+    <link href="https://blog.devtang.com/2020/01/27/simple-investment-book-summary/"/>
+    <id>https://blog.devtang.com/2020/01/27/simple-investment-book-summary/</id>
+    <published>2020-01-27T14:12:41.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/simple-investment.png" class=""><h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>最近冠状病毒流行，在家无事看完了《投资中最简单的事》。该书作者是邱国鹫，高毅资产CEO，曾是60亿美元私募基金合伙人。这本书是他总结的投资经验。</p><p>我从他的书中学到了一些基础的投资方法，比如：逆向投资，评估公司的估值，品质的常见方法。另外他提出的“投资方法的有效性悖论”也让我耳目一新。</p><p>以下是一些小结。</p><h2 id="逆向投资"><a href="#逆向投资" class="headerlink" title="逆向投资"></a>逆向投资</h2><p>股票的价格是通过交易确定的。一只股票好，大家都喜欢，那就会通过交易抬高股票的价格。即便这只股票确实就是真的很好，过高的股价带来的下跌风险，收益率降低，高市盈率都使得这个股票不那么好了。</p><p>所以，如果追随大盘和主流，是很难获得超额收益的。要获得超额收益，就需要逆向投资。在大家都看衰的时候买入，在大家都看好的时候卖出。</p><p>邱国鹫在书中介绍了逆向投资的一些要点：</p><ol><li><p>估值需要足够低，低到已经过度反映了各种可能的坏消息。</p></li><li><p>看遇到的问题是不是短期的，是否是可以解决的。</p></li><li><p>看估值的下降会不会造成公司局面进一步恶化。</p></li><li><p>警惕快速变化的行业。因为这些行业可能被颠覆。</p></li></ol><h2 id="价格便宜"><a href="#价格便宜" class="headerlink" title="价格便宜"></a>价格便宜</h2><p>桥水公司的创始人达瑞欧有发布一个视频，叫<br>《30分钟看懂经济机器的运行规律》，我最近又看了一遍。这个视频介绍了一个很重要的概念就是周期，因为借贷产生了短期和长期的债务周期。而借贷背后，是人们对于经济的乐观/悲观情绪的过度反应。</p><p>而股票的价格也是这样，不管多好或者多差的股票，总会经历价格被高估或者低估的时候。</p><p>所以邱国鹫认为，买股票便宜才是硬道理。因为：</p><p>股票的回报并不取决于它的未来增长快还是慢，而是取决于未来增长比当前股价反应的增长预期更快还是更慢。这里有股价是否已经反映了所有好消息或者坏消息的问题。</p><h2 id="估值、品质、时机"><a href="#估值、品质、时机" class="headerlink" title="估值、品质、时机"></a>估值、品质、时机</h2><p>他认为买一家公司股票需要回答3个问题：</p><ul><li>估值。为什么认为这家公司便宜。</li><li>品质。为什么认为这家公司好。</li><li>时机。为什么要现在买。</li></ul><p>于是对不同的行业，他建议用波特五力，杜邦分析，估值分析等简单工具，弄清楚行业的决定竞争胜负的关键因素是什么。</p><p>邱国鹫还总结了一个技巧，即让大家填空，对于一个行业，得<strong>__</strong>得天下。这样可以快速用一个词概括这个行业竞争的是什么。</p><p>例如：</p><ul><li>基金业是得人才者得天下</li><li>高端消费品是得品牌者得天下</li><li>低端消费品是得渠道者得天下</li><li>制造业是得规模者得天下</li></ul><p>对于时机，邱国鹫认为很难把握。因为首先各种技术指标正确率拿历史数据模拟出来都接近50%正确率；然后国外的公募基金基本上不择时，因为历史上择时的基金业绩差于不择时的。</p><h2 id="投资方法的有效性悖论"><a href="#投资方法的有效性悖论" class="headerlink" title="投资方法的有效性悖论"></a>投资方法的有效性悖论</h2><p>邱国鹫认为：世界上不存在每年都有效的投资方法。一个投资方法能长期有效，正是因为它不是每一年都有效。如果一种方法每年都有效，这个投资方法早就被别人套利套光了。</p><p>其实很多事情都是这样，特别是运营和推广方面，一个运营活动有效，那么很快它就会被模仿，最终效果就大打折扣。一个推广渠道有效，那么客户就会涌入，渠道成本就会上升，变得不那么吸引人。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><ul><li>选公司要关注估值，价格足够便宜才买。</li><li>选公司要关注品质，搞清楚行业的核心竞争力，选那些有足够竞争力的公司。</li><li>有效的方法不一定随时都有效。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/simple-investment.png&quot; class=&quot;&quot;&gt;
+
+&lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h2&gt;&lt;p&gt;最近冠状病毒流行，在家无事看完了《投
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019 年个人总结</title>
+    <link href="https://blog.devtang.com/2020/01/01/2019-summary/"/>
+    <id>https://blog.devtang.com/2020/01/01/2019-summary/</id>
+    <published>2020-01-01T12:17:16.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>今年在工作中还是有不少新的认知获得，有一些认识还是交了不少学费之后才建立。很多不便分享，稍微聊一些能分享的吧。</p><p>1、商业的模型非常重要。今年上半年我孵化的某款产品就是模型不太优秀。头条就是一家在模型上算帐非常清楚的公司。帐算清楚了，就可以放心地做投放获客和商业化转化。今年活得不好的公司，比如 VipKid, 宝宝玩英语，都是商业模型不够好，他们在规模化之后再调整模型就很困难了。</p><p>2、游戏化的学习非常难做。游戏化学习或者功能游戏的核心还是学习，游戏化如果不能持久地提升学习的效率，坚持的效率，那么就是失败的游戏化。最终我看到的成功的游戏化学习案例，其中的游戏部分已经被拆解得面目全非了。仅仅剩下了一些积分，榜单，徽章等游戏化元素。最近刚玩一个叫《健身环大冒险》的 Switch 健身游戏，感受也是相同的，这种玩意新鲜感一过，留存率都会降得很惨。</p><p>3、职能部门的负责人应该有很强的业务意识，并且与业务部门负责人站在同一战线上，好的职能负责人能够引领业务的发展。越是专业度强的职能部门，这方面的挑战就越大（比如研发部门），需要研发负责人花费更多的精力做好沟通。《决战大数据》的作者在这方面的榜样作用非常大，我觉得职能部门就应该做成他那样。</p><h2 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h2><p>今年书读够了 24 本，但是没有写完 24 篇读书笔记。整体上让我感觉收获很大的书没有去年那么多。整个书单在 <a href="https://mp.weixin.qq.com/s/UC3Gil1lADTX1eQBa_roHg" target="_blank" rel="noopener">这里</a>，大部分书都是同事推荐的。</p><p>最喜欢的书是一本 20 多年前就出版的<a href="https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709546194&idx=1&sn=3885e98cd33dc22e76bd3edb27ede70f&chksm=828f0e0cb5f8871a38b791963b5b4cba424b777b122434b78ceb024c297a208f1b29be2e51db&token=79246065&lang=zh_CN&scene=21#wechat_redirect" target="_blank" rel="noopener">《竞争战略》</a>。</p><h2 id="健康"><a href="#健康" class="headerlink" title="健康"></a>健康</h2><p>今年身体状态很一般，先是过敏性鼻炎老犯，然后就是抵抗力比较低，国庆的时候还得了带状疱疹。</p><p>尿酸一直很高，拖了四年今年终于去看了一下，医生说这个指标早该吃药了。。。于是到现在一直在吃药。</p><p>身体早已进入了熬夜熬不起的状态，只能依靠经验积累来竞争，不能拼体力。考虑自己还想为国家多工作几年，所以一直在坚持运动。</p><h2 id="健身"><a href="#健身" class="headerlink" title="健身"></a>健身</h2><p>今年主要的运动就是游泳，平均一周游一次，一次 800 米左右，说实话效果一般，只能当作活动活动。希望明年游泳能够频率高一些。</p><p>今年还尝试了两周晨跑，结果没能坚持下来，而且我发现跑步姿势不对的话对膝盖伤害很大，所以我最后还是放弃了。</p><h2 id="近视手术"><a href="#近视手术" class="headerlink" title="近视手术"></a>近视手术</h2><p>今年花了 2 万多做了一个全飞秒的近视手术，协和医院的李莹医生做的，整体做下来的感受特别好，有点后悔做晚了。</p><p>近视手术经过 20 多年的发展，已经非常成熟，个人认为近视手术会以后每个近视的成年人的标配。</p><p>强烈不推荐同仁医院，价格只差 2000，但体验和协和差了一万倍。我去同仁排队检查了 3 天都没弄完检查，而且手术要排到半年后，白花了不少检查费。协和的检查当天就可以做完，第二周就可以手术。</p><h2 id="旅游"><a href="#旅游" class="headerlink" title="旅游"></a>旅游</h2><p>19 年旅游去了两个地方，一个是曼谷。吃吃喝喝，感受不深。</p><p>另一个是公司的年度旅游，去了欧洲（匈牙利，奥地利，捷克，巴黎），对于欧洲的历史文化借此了解了不少，也看到了很多名画（比如蒙娜丽莎的微笑，自由领导人民）的真迹。</p><h2 id="炒股"><a href="#炒股" class="headerlink" title="炒股"></a>炒股</h2><p>今年是炒股的第二年，第一年我交了好几笔学费，整体亏了 1 万美元左右。</p><p>第一笔学费是关于买入时机的，当时瑞思英语刚上市，我在它股价还在剧烈波动的时候就买入，结果亏了很多。这笔学费在今年起到了作用，我在腾讯的股票上就看了很久，最终买入价 400 块虽然也比较高，但是相比最高价 480 还是低了不少。这使得我今年在腾讯这支股票上只是小亏（当前腾讯股价 383）。</p><p>第二笔学费是关于心态和认知的。18年当时买股票不知道为什么买，股价一跌就着急想卖。李勇说过好的股票应该越跌越买。今年我在特斯拉身上实践了一把，特斯拉一路跌的时候，我不断加仓。最终打算在跌到 200 元的时候全仓，虽然最后没有全仓成功，但是均价控制到了只有 242 元，现在特斯拉涨到了 430 元 (+77%）。</p><p>所以，2019 年我整体的股票收益都还可以，手里的几只股票除了腾讯外，收益率都还不错：</p><ul><li>阿里巴巴，成本价 144，现价 215</li><li>特斯拉，成本价 242，现价 430</li><li>腾讯，成本价 403，现价 383</li><li>拼多多，成本价 24，卖价 30</li></ul><p>今年做到了 50% 的年化收益，不过去年是 -20% 年化收益。</p><img src="/images/2019-summary-1.jpeg" class=""><p>A股市场今年也小试了一下，茅台和格力的收益率都还可以。</p><p>整体觉得自己水平还是比较菜的，还需要再多体会和总结几年。</p><h2 id="明年的目标"><a href="#明年的目标" class="headerlink" title="明年的目标"></a>明年的目标</h2><ul><li>首先还是继续读书吧，还是一个月读两本，全年读够 24 本书。</li><li>游泳还是想捡起来，希望能够坚持每周至少 2 次，每次 1000 米。</li><li>工作上，希望能够做好大决策。</li></ul><h2 id="个人-Milestone"><a href="#个人-Milestone" class="headerlink" title="个人 Milestone"></a>个人 Milestone</h2><ul><li>做了近视手术</li><li>炒股有了一些收获</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;工作&quot;&gt;&lt;a href=&quot;#工作&quot; class=&quot;headerlink&quot; title=&quot;工作&quot;&gt;&lt;/a&gt;工作&lt;/h2&gt;&lt;p&gt;今年在工作中还是有不少新的认知获得，有一些认识还是交了不少学费之后才建立。很多不便分享，稍微聊一些能分享的吧。&lt;/p&gt;
+&lt;p&gt;1、商业的模型
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="anniversary" scheme="https://blog.devtang.com/tags/anniversary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从早期市场到主流市场 - 读《跨越鸿沟》</title>
+    <link href="https://blog.devtang.com/2019/12/09/cross-gap/"/>
+    <id>https://blog.devtang.com/2019/12/09/cross-gap/</id>
+    <published>2019-12-09T15:34:35.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近看完了《跨越鸿沟》，这是一本最初写于 1990 年的书，它被美国《福布斯》杂志评为 “最具影响力的 20 本商业书籍”。</p><p>本书的独到之处在于提出了所谓的 “鸿沟理论”，该理论是指：高科技产品在早期市场和主流市场之间存在着一条巨大的 “鸿沟”，能否顺利跨越鸿沟并进入主流市场，就成为企业增长的关键。</p><p>以下是一些笔记。</p><h2 id="用户分层"><a href="#用户分层" class="headerlink" title="用户分层"></a>用户分层</h2><p>作者首先把消费者按照接受产品创新的激进程度进行分层，拿 iPhone 和新能源汽车来说：</p><ul><li>早期采用者（early adopter）。最早一批买 iPhone 一代和特斯拉的车主，就是这类人。他们通常对产品抱着极高的容忍度，能够接受各种不完美。</li><li>早期大众（early majority）。早期大众是一类处于中间立场的技术采纳者，他们会客观评测 iPhone 和新能源汽车的各项指标，只有这类产品真正具有较全面的优势时，才可能采用。</li><li>后期大众（late majority）。后期大众非常介意习惯的迁移成本，他们不愿意冒风险或者变化，除非这种变化特别方便并且没什么风险。比如周围很多人都用 iPhone 的时候，他们才会考虑 iPhone。大部分人都用新能源车并且油车变得没电车方便的时候，他们才考虑新能源车。</li><li>落后者（laggard）。基本上除非迫不得已，否则怎么都不会接受新事物的人。我爸爸大概就是这样的人，不用手机支付，买东西坚持用现金付款，担心网络不安全（他确实也中了好几次电脑病毒）。</li></ul><p>作者认为早期大众和后期大众各占 1/3，其他人占 1/3。</p><h2 id="鸿沟在哪儿"><a href="#鸿沟在哪儿" class="headerlink" title="鸿沟在哪儿"></a>鸿沟在哪儿</h2><p>那么鸿沟在哪儿呢？作者认为有两个小鸿沟和一个大鸿沟。</p><img src="/images/cross-gap.jpg" class=""><p>第一个小鸿沟在早期采用者内部，作者把他们描述成创新者和早期采用者之间的鸿沟。这个鸿沟产生的主要原因是需求太小众。太小众的需求虽然在一个极小的圈子里面受欢迎，但是无法传染给更多人。</p><p>第二个小鸿沟在早期大众和后期大众之间，这需要产品解决用户的迁移成本问题。迁移成本如果不够低，那么用户就会因为成本放弃迁移。</p><p>最大的鸿沟在早期采用者和早期大众之间：</p><ul><li>早期采用者非常包容，但早期大众非常务实</li><li>早期采用者预期产品是颠覆性的，早期大众预期产品是改进式的（对自己的习惯影响不要太大）</li></ul><p>这两类人群的特点不同，可能导致他们的需求完全不一样，营销方式也完全不一样。</p><h2 id="如何跨越鸿沟"><a href="#如何跨越鸿沟" class="headerlink" title="如何跨越鸿沟"></a>如何跨越鸿沟</h2><p>作者觉得需要关注市场的细分，做” 小池塘里的大鱼 “。这个观点类似于《竞争战略》一书中讲的聚焦和差异化战略。成为一个细分市场的领导者，有助于你直接获取早期大众的认可。之后企业要做的就是借助这个细分市场与其他市场的联系，努力进入下一个规模更大的市场细分。</p><p>书中举了 Mac 的例子，Mac 在最初的时候，聚焦在世界 500 强的图形艺术部门。然后再慢慢扩展到与图形艺术工作人员交互的外部市场：例如创作机构，广告宣传机构以及出版商。</p><p>在关注细分市场的基础下，作者把企业的工作分为四步：</p><ul><li>瞄准目标。通过用户画像，场景细节描述等方式具象化需求。</li><li>集中军力。关注核心需求，建立核心需求的整体解决方案，如果需要，可以建立同盟的企业和引入第三方的服务。</li><li>制定战略。确定产品的市场定位。</li><li>发起入侵。选择合适的销售渠道，并制定正确的定价体系完成获客。</li></ul><h3 id="瞄准目标"><a href="#瞄准目标" class="headerlink" title="瞄准目标"></a>瞄准目标</h3><p>作者建议通过情景画描述用户采用我们的产品之前，以及采用我们的产品之后的场景，通过对比来感受新产品带来的竞争力。</p><p>在考虑新场景的时候，主要考虑以下 4 个角度：</p><ul><li>目标顾客。购买者群体是否足够大，购买力是否强。</li><li>购买理由。需求是否足够强劲。</li><li>整体产品。是否提供了一个整体性的解决方案。</li><li>竞争。竞争对手是否已经开始涉足这个场景。</li></ul><h3 id="集中军力"><a href="#集中军力" class="headerlink" title="集中军力"></a>集中军力</h3><p>作者将解决方案分为：一般产品，期望产品，延伸产品，潜在产品。然后建议创业者做好一般产品的基础上，从用户需求场景出发，构造整体性的解决方案。如果这里面涉及第三方的服务整合，那么应该尽早建立这种同盟关系。</p><p>书中举了一个电子书阅读器的使用场景：机长使用它来查找文档，排除飞行故障。从场景中，我们就能看出以下环节都是整体解决方案需要考虑的：</p><ul><li>阅读器的便携性</li><li>文档格式的兼容性</li><li>文档内容的及时更新</li><li>超链接的支持</li><li>是否需要实时联网</li></ul><p>只有整体解决方案匹配场景，才可以真正解决用户的痛点。</p><h3 id="制定战略"><a href="#制定战略" class="headerlink" title="制定战略"></a>制定战略</h3><p>有效的战略，可以跨越鸿沟，赢得实用主义者的信任，作者把战略分成 3 步：</p><p>1、首先产品本身需要有竞争力，即：优秀的产品、匹配的目标顾客、强有力的购买理由。</p><p>2、在市场中创造有利于你的竞争，选择合适的竞争对手。你的解决方案优于这些竞争对手。</p><p>3、定位及营销。在传播上使用户记住你的定位，了解你相对竞争者的优点。</p><p>最终，作者希望以上步骤可以使企业进入竞争性格局的领导者。</p><h3 id="发起入侵"><a href="#发起入侵" class="headerlink" title="发起入侵"></a>发起入侵</h3><p>如何把产品卖出去永远是成功的最后一步，而这个过程最重要的就是确定价格和渠道。</p><p>基本上价格和渠道是互相绑定的，一个产品的定价策略的根本作用就是帮助企业确定合适的销售渠道。所以，定价的首要目标不是让顾客或者投资者满意，而是寻找适当的销售渠道。</p><p>互联网和移动互联网快速发展，看起来我们不需要渠道了，但是其实渠道只是从线下转到了线上。而线上渠道的获客成本，是每一个互联网产品不得不考虑的重要问题。很多创业公司都死在了高额的获客成本上。</p><h2 id="跨越鸿沟"><a href="#跨越鸿沟" class="headerlink" title="跨越鸿沟"></a>跨越鸿沟</h2><p>书中最后一章还提到了一些不错的观点，小结如下：</p><ul><li>利润从来都是企业需要关注的问题。有些时候资本的助力可能让企业短时间内不必考虑这个，但是企业的经营目标最终还是需要回归到利润本身。</li><li>产品早期，产品经理的权力会比较大，因为他需要完成一般产品。但是到了后期，因为企业需要把注意力转移到整体产品的开发上，所以就需要完成从产品驱动到市场驱动的转变。这个时候权利应该收回到运营和营销经理手中。书中举了产品包装的例子作为说明。</li><li>技术员工的价值主要集中在产品早期。但是因为企业早期并不能提供高额的回报，所以只能以期权的方式来给技术员工提供回报。但企业需要保留足够的期权，以便激励后期帮助企业跨越鸿沟的人。</li></ul><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>《跨越鸿沟》建议企业从小市场切入，做小池塘里的大鱼。具体来说，把工作分为 4 步，我个人觉得比喻得有点绕，其实：</p><ul><li>瞄准目标，即：确定用户需求。</li><li>集中军力，即：确定产品方案。</li><li>制定战略，即：确定竞争策略和市场定位。</li><li>发起入侵，即：确定价格和渠道。</li></ul><p>书中最后说的企业要回归利润，早期重产品技术，后期重市场运营等观点，我都非常赞同。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近看完了《跨越鸿沟》，这是一本最初写于 1990 年的书，它被美国《福布斯》杂志评为 “最具影响力的 20 本商业书籍”。&lt;/p&gt;
+&lt;p&gt;本书的独到之处在于提出了所谓的 “鸿沟理论”，该理论是指：高科技产品在早期市场和主流市场之间存在着一条巨大的 “鸿沟”，能否顺利跨越鸿
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网易云音乐的产品故事 - 读《幕后产品》</title>
+    <link href="https://blog.devtang.com/2019/11/07/the-background-of-app/"/>
+    <id>https://blog.devtang.com/2019/11/07/the-background-of-app/</id>
+    <published>2019-11-07T13:40:18.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近读了网易云音乐的产品负责人王诗沐的《幕后产品 - 打造突破式产品思维》，这是一本来自互联网一线产品经理背景的书，很接地气。书中既有框架性的方法论，也有实际的案例。而且各种案例都直接是网易云音乐或者市场上的相关产品，让人很有实际上手的感觉。</p><p>不过我并不打算把诗沐的内容都复述一遍，分享一些我自己的感悟吧。</p><h2 id="程序员视角-vs-产品经理视角"><a href="#程序员视角-vs-产品经理视角" class="headerlink" title="程序员视角 vs 产品经理视角"></a>程序员视角 vs 产品经理视角</h2><p>《幕后产品》书中提到大众点评的外卖入口，有两个入口，一个是首页的一级入口，另一个是首页的美食下面的二级入口。从逻辑上说，一个一级入口同时又是另一个一级入口的二级入口，显然是有点逻辑矛盾的。但是作者认为：这可以照顾两类用户的习惯，在产品慢慢影响用户习惯的过程中，我们不需要为产品做出完美的逻辑（第 7 章 第 1 节）。</p><p>我非常赞同诗沐的观点，这个观点在产品经理圈可能是常识，但在技术圈可能是异类。</p><p>曾经有一个技术同事私下向我抱怨：我们的产品稿，一些逻辑都不完备，这不应该是最开始就应该考虑的吗？这代表的就是典型的程序员视角。</p><p>程序员总觉得这个世界有很强的「硬规则」，所有事情都应该是「确定的」，不存在模糊或者不清楚的情况。遇到产品稿在某种特殊情况下没有定义清楚就会很生气，觉得产品经理考虑问题不严谨。</p><p>比如，一些 App 可能有断网显示缓存的功能，这个功能就很多异常情况，比如缓存了一半怎么显示？缓存过期了怎么办？显示缓存中突然又连上网上怎么办？连上网好好的突然又断网了怎么办？缓存中的各种操作（比如点赞），是显示失败，还是显示成功？如果显示成功，是假成功，还是待连上网后再发送真实操作？如果是后者，如果发送失败怎么办，如果发送时帐号需要登录怎么办？</p><p>好家伙，这么多特殊情况！这个时候，牛逼的产品经理可能会扔一个文档：这些都定义好了。但大多数情况下，产品经理需要和程序员一起把这些异常细节补充完善。</p><p>其实，产品经理在思考产品稿的时候，从来都不是把逻辑完备当成第一优先级。第一优先级的还是对产品影响最大的那些因素。从大的角度考虑，这些因素是竞争策略和产品定位。从小的角度考虑，这些因素是用户的需求，场景，流程。</p><p>所以，程序员同学应该要理解和体谅产品经理，他们在考虑用户的时候，更多的是考虑需求的强弱。他们在设计流程的时候，考虑最多的也是 99% 情况下的主流程的体验。那 1% 的异常分类下面的各种异常情况，是需要最后定义清楚的，但是并不是对产品本身影响最大的。</p><p>有意思的是，这 1% 的异常却是对程序员工作影响最大的。有些产品功能，主流程写起来很容易，但是各种异常情况处理起来烦死人，而且还很难测试到位。最终大家的精力都消耗到了这 1% 的异常定义中。</p><p>所以，牛逼的产品经理会做减法，不止是减功能，而且还减异常。不需要缓存的地方就不会加缓存功能。各种异常情况，怎么方便怎么来。最终让开发和测试的力量都可以集中到最核心的用户体验和功能上去。</p><h2 id="先有定位，再有功能"><a href="#先有定位，再有功能" class="headerlink" title="先有定位，再有功能"></a>先有定位，再有功能</h2><p>音乐播放类的 App，在网易云音乐诞生的第一天起，就不缺少竞争。思考如何定位，做出差异化产品，是王诗沐需要考虑的第一件事情。</p><p>最终，诗沐选择主打个性化推荐、歌评、歌单、发展 UGC 社区的方式来做网易云音乐。</p><p>有了这样的战略定位，之后的很多产品决策都在配合这个定位。诗沐在介绍网易云音乐要不要做，怎么做一个具体功能的时候，都会思考与自己的定位是否冲突。例如：当做下载功能的时候，产品设计让用户一定要选择歌单。做收藏歌曲功能的时候，产品也让用户一定要选择歌单。</p><p>在考虑场景电台功能的时候，因为考虑到会对 UGC 社区带来分流影响，所以选择不做场景电台，只针对某些特别场景（比如跑步）做一些专门的支持。</p><img src="/images/background-of-app.png" class=""><p>这种先战略，再战术，让战术配合战略的做法，处处着眼整体，不至于让产品细节一处的得失影响全盘，是非常有章法的。</p><h2 id="文档化你的重要判断"><a href="#文档化你的重要判断" class="headerlink" title="文档化你的重要判断"></a>文档化你的重要判断</h2><p>诗沐把还原用户场景拆解成 3 个纬度：角色、场景、流程。然后在判断一个功能做与不做的时候，先问自己，为什么要做这个功能。在列出一系列做的理由之后，再一一看这些理由是否足够强。再看看做这个功能有什么风险。</p><p>书中拿了很多案例来举例，有些功能不做是与定位有冲突（例如场景电台），有些功能不做是价值不高（例如勋章）。</p><p>我个人感受最深的是把这些东西文档化。因为我有些时候发现，一些思考了很久的东西，有结论了。过了几个月，别人问起这个事情怎么决策的，我并不能一下子完全回忆起来。</p><p>重要的决策过程，通常可能同时有着收益与风险的权衡，有一些重要的理由支撑着这些决策，有一些被忽略的理由当时可能觉得不重要，这些决策细节都挺重要的。事后回顾，可能发现一些被忽略的理由变化了，或者市场环境变化了，决策就应该有所改变。</p><p>而文档化，是这一切的基础。</p><p>我想诗沐也是记录了大量网易云音乐的大量决策过程，才可以将网易云音乐从 12 年到现在的发展历程娓娓道来。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><ul><li>程序员背景的同学要注意自己的思考角度。</li><li>产品功能应该服务于产品定位。</li><li>文档化自己的重要决策，便于事后回顾调整和复盘。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近读了网易云音乐的产品负责人王诗沐的《幕后产品 - 打造突破式产品思维》，这是一本来自互联网一线产品经理背景的书，很接地气。书中既有框架性的方法论，也有实际的案例。而且各种案例都直接是网易云音乐或者市场上的相关产品，让人很有实际上手的感觉。&lt;/p&gt;
+&lt;p&gt;不过我并不打算把
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>像做产品一样做大数据 - 读《决战大数据》</title>
+    <link href="https://blog.devtang.com/2019/10/30/fight-with-big-data/"/>
+    <id>https://blog.devtang.com/2019/10/30/fight-with-big-data/</id>
+    <published>2019-10-30T12:00:01.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>车品觉是《决战大数据》的作者，阿里巴巴的前副总裁，红杉资本中国基金专家合伙人。在阿里巴巴的 6 年，车品觉从刚开始只负责支付宝，到后来负责淘宝，最后负责整个阿里集团的数据工作。</p><p>作为大数据背景，很难有第二人能够做到这样的职业跃升。在看完整本书后，我才明白了，原来车品觉不单单只是在做大数据，而是把大数据当作一个产品，把业务负责人及需求方当作用户，不但在大数据的产品上做到了创新，而且还深度理解和配合业务方，难怪他最后能够统管整个阿里集团的数据工作。</p><p>那么车品觉做了哪些亮点的事情呢？以下是我的小结。</p><h2 id="把数据报告当成产品"><a href="#把数据报告当成产品" class="headerlink" title="把数据报告当成产品"></a>把数据报告当成产品</h2><p>数据报告最容易做成例行的数据罗列，如果是罗列数据，那么数据团队就真正只是在做数据了。</p><p>车品觉首先觉得数据报告应该做成一个好产品，那么好的产品是什么样的呢？他列了一些要求：</p><ul><li>有好的开头。报告的前 3 页一定要吸引人，让人有欲望读下去</li><li>有结论。当有人猜测数据背后的各种原因时，下一页要解答他的疑问</li><li>有讨论。每次的数据报告如果高层只看了 5 分钟，就是失败的。车品觉后来做到了每份报告被讨论几个讨论。</li></ul><p>为了达成以上的目标，在执行层面，车品觉又做了下面这些事情。</p><h2 id="深入用户"><a href="#深入用户" class="headerlink" title="深入用户"></a>深入用户</h2><p>将日常的业务需求与紧急的数据需求拆开，然后车品觉自己天天和业务高层混在一起，了解他们当前最关心的事情，然后利用自己的数据突击队，提供这些事情的数据支撑。</p><p>车品觉和业务高层紧密接触就相当于产品经理和用户紧密接触一样，只有这样才知道核心的需求在哪里，才能抽像出需求，及时响应，而不是等着用户提需求。</p><p>在车品觉的团队给高管做报告的时候，车品觉不会看报告，而是主要记录高管们什么时候记了笔记，什么时候在玩手机。因为高管看手机的时间，就说明数据报告相关的内容没有吸引力，应该改进。</p><p>在车品觉负责整个阿里集团的数据时，他也将这个理念口号化，他提出数据同事要 “混、通、晒”，这里中的 “混”，就是和业务团队混在一起，深入业务。</p><h2 id="数据产品创新"><a href="#数据产品创新" class="headerlink" title="数据产品创新"></a>数据产品创新</h2><p>在深入了解需求，努力提供有吸引力的数据报告的同时，车品觉也在不停地整理需求，提供创新性的数据产品。他针对阿里的高层、中层都分别做了合适的数据产品，方便不同职位的同事便利地获取数据。</p><p>他在技术上也努力创新，曾经有一个数据产品需求，没有哪个技术同事可以做到 3 秒以内出结果，但是他坚持要做到 3 秒以内，最后终于找到了一个能够做到的同事，这个同事后来做到了腾讯数据中心总经理。</p><h2 id="建立数据原则、理念与方法论"><a href="#建立数据原则、理念与方法论" class="headerlink" title="建立数据原则、理念与方法论"></a>建立数据原则、理念与方法论</h2><p>车品觉将自己的数据工作整理成了各种原则、理念和方法论，方便在整个集团进行推行。</p><p>他将数据工作分成两类：</p><ul><li>运营数据，是指将数据进行收集、整理，然后进一步提供数据创新或改善的工作。</li><li>数据化运营，是指将已有的数据进行分析判断，进而解决我们业务当中的各种问题。</li></ul><p>对这两类工作，车品觉提出了运营数据的「存、管、用」，以及数据化运营的「混、通、晒」原则。</p><img src="/images/fight-with-big-data.png" class=""><h3 id="运营数据的「存、管、用」"><a href="#运营数据的「存、管、用」" class="headerlink" title="运营数据的「存、管、用」"></a>运营数据的「存、管、用」</h3><p>现在这个大数据时代，业务 / 产品负责人很容易想当然地把数据尽可能地收集。但是数据增长实在太快了，如果我们没有目标，那么收集到再多的数据也没有意义。</p><p>车品觉自己在经历过很长一段盲目收集数据，不知道如何备份和管理数据的日子后，终于觉得：数据收集应该有目的性。他在书中说：「我们必须知道这些数据未来可以用来做什么，如果今天都想不出来的话，日后就更不可能了」。</p><p>车品觉将这个理念整理到他的数据原则：「存、管、用」中。</p><ul><li>存：就是指衡量收集多少数据、哪些数据才足够。</li><li>管：如何管理如此多的大数据。</li><li>用：如何使它们实现更大的价值。</li></ul><p>在保存数据的时候，我们需要「假定数据是脏的」，对数据进行合理的清洗，因为大数据来源各种各样，很容易获得脏数据。脏数据不进行处理的话，所有的后续结果都会是错的。</p><h3 id="数据化运营的「混、通、晒」"><a href="#数据化运营的「混、通、晒」" class="headerlink" title="数据化运营的「混、通、晒」"></a>数据化运营的「混、通、晒」</h3><p>数据化运营，是指利用现有的数据来解决业务运营中的各类问题。</p><p>车品觉提出了「混、通、晒」的口号：</p><ul><li>混：是指数据分析师需要和业务混在一起。这样才会有商业的敏感度，知道当前业务部门最关心什么问题，最关心什么数据。</li><li>通：通有两层意思。我们首先需要将不同地方收集到的数据打通，也需要将商业理解和数据之间的联系打通。</li><li>晒：是指数据要易于获取，易于呈现和理解。相关的报告要人性化，相关的系统要好用。</li></ul><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>车品觉的这本书对我的最大感受，还是来自于他的类似于做产品的创新意识。很多人做工作就只是重复前人的做法，车品觉将自己的工作产出看成一个高品质的产品，用做产品的思路来做大数据分析。</p><p>战略对了，战术也就很容易了，战术执行上车品觉的深入理解用户，提创新解决方案，总结方法论都将大数据分析高质量地落地了，帮助业务的同时，也成就了自己成为负责整个阿里集团的数据工作的副总裁。</p><p>天下无难事，就怕有心人。与君共勉。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;车品觉是《决战大数据》的作者，阿里巴巴的前副总裁，红杉资本中国基金专家合伙人。在阿里巴巴的 6 年，车品觉从刚开始只负责支付宝，到后来负责淘宝，最后负责整个阿里集团的数据工作。&lt;/p&gt;
+&lt;p&gt;作为大数据背景，很难有第二人能够做到这样的职业跃升。在看完整本书后，我才明白了，原
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>可复用的工作模式 - 读《解决问题的商业框架图鉴》</title>
+    <link href="https://blog.devtang.com/2019/10/25/thinking-framework/"/>
+    <id>https://blog.devtang.com/2019/10/25/thinking-framework/</id>
+    <published>2019-10-25T12:49:55.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>什么是框架？框架是一种可复用的思考模式，通过这个模式我们可以快速地将一个问题 / 思考 / 工作整理清楚。</p><p>比如：Scrum 就是一种框架，它把工作流程分为：计划，每日站会，评审，回顾。然后在这种框架下工作就会比较舒服，既保证了沟通的透明度，又保证了进度追踪和反馈迭代。</p><p>又比如：SWOT 分析也是一种框架。它将环境整体分为内部和外部，然后分别进行优势和劣势的判断。</p><p>框架不是万能的，具体问题还需要具体分析。但框架确实给解决问题提供了一些范本，用于进行有条理的思考。同时，框架也是一种共同语言，大家用同一个框架讨论问题，就更容易同步想法，沟通见解。</p><p>最近看了一本框架类的书，叫《解决问题的商业框架图鉴》，把常见的框架都整理了出来。我一开始以为只是工具书，用到的时候查阅，读下来之后，发现一些常见的工作场景，都可以应用书中提到的大框架，所以收获挺多。</p><p>以下是一些小结，分享给大家。</p><h2 id="找出问题的框架"><a href="#找出问题的框架" class="headerlink" title="找出问题的框架"></a>找出问题的框架</h2><h3 id="To-be-amp-As-is"><a href="#To-be-amp-As-is" class="headerlink" title="To be &amp; As is"></a>To be &amp; As is</h3><p>有些时候我们遇到一个复杂问题或目标，都找不出问题在哪儿，书中提到了一个理清问题在哪儿的框架：为名「理想状态 To be 和 现状 As is」法。</p><p>书中举了一个将公司经营得更好的例子，什么样是更好的？首先用 To Be 和 As is 列出理想的一些状态和现状，然后就可以关注落差。</p><img src="/images/thinking-framework-1.png" class=""><p>「落差」其实就是我们需要达成的目标。这样就把问题视觉化，目标清晰化了。</p><p>进一步，用 TAPS 就可以进一步思考问题原因和解决方案。</p><img src="/images/thinking-framework-2.png" class=""><h3 id="为什么"><a href="#为什么" class="headerlink" title="为什么"></a>为什么</h3><p>这也是一种技巧，遇到问题，连续追问为什么，就可能找到问题的本质。</p><h3 id="6W2H"><a href="#6W2H" class="headerlink" title="6W2H"></a>6W2H</h3><p>这也是一种把问题了解得更清楚的框架，通过列出 Who, Whom（对谁）, What, Where, When, Why 以及 How, How much，把问题理清楚。</p><h2 id="分析市场"><a href="#分析市场" class="headerlink" title="分析市场"></a>分析市场</h2><h3 id="SWOT"><a href="#SWOT" class="headerlink" title="SWOT"></a>SWOT</h3><p>SWOT 是把环境当成第一维度，分析自身优势和劣势的一种框架。</p><img src="/images/thinking-framework-3.png" class=""><h3 id="五力图"><a href="#五力图" class="headerlink" title="五力图"></a>五力图</h3><p>《竞争战略》那本书提到的思考角度，把竞争的来源分成 5 类。如下图：</p><img src="/images/thinking-framework-4.png" class=""><h2 id="探索"><a href="#探索" class="headerlink" title="探索"></a>探索</h2><h3 id="曼陀维九宫格"><a href="#曼陀维九宫格" class="headerlink" title="曼陀维九宫格"></a>曼陀维九宫格</h3><p>有些时候为了让自己穷尽所有的想法，以便遍历出所有可能的选项，「曼陀维九宫格」可以是一个不错的办法。如下图：</p><img src="/images/thinking-framework-5.png" class=""><p>「曼陀维九宫格」的使用方法：</p><ul><li>【设定中央的关键字】：在正中央的格子写下主题或关键字。</li><li>【写下联想到的关键字】：在周围的 8 个格子写下从中央关键字所能联想到的关键字。</li><li>【再写出从这里联想到的更多关键字】：在周围的 8 个 3x3 的格子里，再扩展写 8 个相关的关键字。</li></ul><p>格子的数量其实不一定非得是 8 个，可以具体情况进行表格数量的拆分或者合并。</p><h2 id="实现"><a href="#实现" class="headerlink" title="实现"></a>实现</h2><h3 id="KPI-树状图"><a href="#KPI-树状图" class="headerlink" title="KPI 树状图"></a>KPI 树状图</h3><p>有些时候，我们需要将 KPI 拆解，而 KPI 树状图就可以很好地达到我们的目标。比如一家饭店，如果以营业额作为 KPI，那么就可以按下图的方式进行拆解。</p><img src="/images/thinking-framework-6.png" class=""><p>把 KPI 拆解的好处是可以进一步细化执行，找到比较容易落地的方案。</p><p>我个人认为拆解也有一定的坏处，就是失掉了整体性，如果过度追求某个拆解的 KPI，可能对业务长远的或隐性的基石（比如品牌）带来影响。</p><h3 id="PDCA"><a href="#PDCA" class="headerlink" title="PDCA"></a>PDCA</h3><p>PDCA 将工作阶段分成计划、执行、检查、行动。其重要的就是其中的检查环节，使得迭代成为活动流程中重要的一环。</p><img src="/images/thinking-framework-7.png" class=""><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>框架不是银弹，不能解决所有问题，也不一定适用每个场景。</p><p>对于一个新的问题，整理出一套解决这个问题的框架，其实就是形成了特定的方法论，还是非常有必要的。</p><p>本书的价值就是让你对现有商业环境常见的方法论有一个大概了解。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;什么是框架？框架是一种可复用的思考模式，通过这个模式我们可以快速地将一个问题 / 思考 / 工作整理清楚。&lt;/p&gt;
+&lt;p&gt;比如：Scrum 
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>询问而非命令的艺术 - 读《谦逊的探询》</title>
+    <link href="https://blog.devtang.com/2019/10/05/humble-inqiury-book-summary/"/>
+    <id>https://blog.devtang.com/2019/10/05/humble-inqiury-book-summary/</id>
+    <published>2019-10-05T16:22:20.000Z</published>
+    <updated>2020-04-22T15:48:18.680Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/images/humble-inqiury.jpeg" class=""><h2 id="序"><a href="#序" class="headerlink" title="序"></a>序</h2><p>最近读了一本很薄的书，叫《谦逊的探询》，讲的是作为管理者如何进行更好地沟通和决策。</p><p>这本书写作的背景是：作者发现一些严重的事故，比如核污染事故和哥伦比亚号事故，都是因为职位级别的原因。在这些事故中，底层员工掌握的重要信息要么并没有被上报，要么虽然上报了，但是被忽视或否定了。</p><p>于是，作者认为我们缺失的是一种下层员工能够放心的把问题向上层传递的气氛。那么如何才能够建立这种气氛呢？答案就是管理者必须学会更好地提问。</p><p>以下是我的一些读书笔记。</p><h2 id="文化的困境"><a href="#文化的困境" class="headerlink" title="文化的困境"></a>文化的困境</h2><p>我们首先处在一个崇尚个人主义大于集体主义的社会。在企业，表现优秀的员工被提拔。所以，大家认为管理者就应该是优秀的个人，就可以独立做出正确的决策。</p><p>第二，我们的文化也强调少说多做。强调执行力，强调完成。在安排任务的时候提问题可能会被人认为是“挑刺”。这种文化压抑了员工的表达欲望。</p><p>第三，大部分员工习惯听命于领导的安排，因为这样员工不用承担决策责任。在文化上，决策权责确实通常也是赋予给管理层的。</p><p>以上，使得员工并不习惯把信息尽力上报。因此，管理者需要构建一种合适的气氛，尽可能收集到底层的信息。</p><h2 id="谦逊的探询"><a href="#谦逊的探询" class="headerlink" title="谦逊的探询"></a>谦逊的探询</h2><p>把“谦逊的探询”拆开来看，分为“谦逊”和“探询”。</p><h3 id="谦逊"><a href="#谦逊" class="headerlink" title="谦逊"></a>谦逊</h3><p>作者认为，我们首先要在心底做到“谦逊”。这种谦逊不同于对于长者或者偶像的谦逊，它表达的是一种对自己无法独立决策，需要时刻依赖别人来共同完成任务的心态。</p><p>这种心态在我看来也是这个社会信息爆炸的一种现象，就像《赋能》一书所说，现代社会大量的信息是被基层人员掌握。管理者仅仅只有综合信息而决策的优势，不再有信息掌握的优势。认识到这一点，才可以做到足够“谦逊”。</p><p>谦逊的态度本身，也给了其他人足够的心理安全感，让他们能够缓解由于职级或者文化带来的表达压力。</p><p>做到谦逊之后，我们应该学习的就是如何“探询”。</p><h3 id="探询"><a href="#探询" class="headerlink" title="探询"></a>探询</h3><p>我理解的探询是一种“请教”或者“咨询”，通过放低姿态提问，让双方可以尽可能地共享信息。</p><p>但是探询的本质不仅仅是提问。因为这种探询源自于兴趣和好奇的态度。它表示我们对建立关系抱有渴望，这样可以带来更加开放的交流。</p><p>在这种开放的交流气氛下，提问者暂时处于从属地位，如果你利用这种机会欺骗了我或者利用我，提供了并不需要或者糟糕的建议，我会在未来避免接触你。如果你的建议帮助了我，我们就已经建立起了一种积极的关系。</p><h3 id="探询的形式"><a href="#探询的形式" class="headerlink" title="探询的形式"></a>探询的形式</h3><p>书中给了 4 种不同形式的询问：</p><ol><li><p>谦逊的探询。最大限度地表达出自己的好奇心和对他人的兴趣，是引导他人多说的提问方法，对方并不需要多想。</p></li><li><p>诊断式询问。与上一个的区别在于，这个需要对方多想，想一些之前没有意识到的问题。这样可以引导对方的思维过程。是一种解决问题的提问方式。比如：“你对此感受如何？”</p></li><li><p>对抗式询问。在提问中使用反问句比较常见，直接带入自己的猜测。比如：”为什么今晚我们不去看电影？”</p></li><li><p>面向过程的询问。是直接针对谈话流程的提问，特别是认为对话朝一个错误的方向进行时。比如：“我们跑题了吗？”，“这样问会不会太过隐私？”。</p></li></ol><h2 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h2><p>案例一：一个公司的 CEO 觉得大家开会的时候都坐得很远，但是又不希望命令大家。一个好的谦逊的探询是问：“大家为什么坐那么远？”。</p><p>案例二：作者在很忙碌地写作，他妻子打扰到了他，邀请他出去走走。作者认为谦逊的探询是：给妻子一个认真的谈话，表达当前自己需要集中精力写作，询问妻子的建议。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>谦逊的探询是一种组织能力，可以团结团队成员，激发成员的表达，最终获得充分的信息并且与团队成员共同决策和成长。</p><p>团队成员既可以借此机会建立和管理者的友谊，又可以部分参与决策思考过程，帮助自身成长。</p><p>推荐给大家~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/humble-inqiury.jpeg&quot; class=&quot;&quot;&gt;
+
+&lt;h2 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h2&gt;&lt;p&gt;最近读了一本很薄的书，叫《谦逊的探询》，讲的是作
+      
+    
+    </summary>
+    
+    
+      <category term="summary" scheme="https://blog.devtang.com/categories/summary/"/>
+    
+    
+      <category term="books" scheme="https://blog.devtang.com/tags/books/"/>
+    
+  </entry>
+  
+</feed>
